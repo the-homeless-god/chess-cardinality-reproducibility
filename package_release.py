@@ -11,7 +11,7 @@ def main():
  for p in sorted(ROOT.rglob('*')):
   rel=p.relative_to(ROOT)
   if not p.is_file() or any(part in EXCLUDE for part in rel.parts) or p.suffix in {'.pyc','.docx','.pdf','.png','.jpg'}:continue
-  if p.suffix=='.md' and p.parent==ROOT and p.name not in {'REPRODUCE.md', 'search-integration-protocol.md', 'scenario-comparison-protocol.md', 'extended-comparison-protocol.md', 'full-game-and-runtime-protocol.md', 'THIRD_PARTY_NOTICES.md', 'ga-experiment-protocol.md', 'README.md'}:continue
+  if p.suffix=='.md' and p.parent==ROOT and p.name not in ['README.md', 'REPRODUCE.md', 'THIRD_PARTY_NOTICES.md', 'extended-comparison-protocol.md', 'full-game-and-runtime-protocol.md', 'ga-experiment-protocol.md', 'scenario-comparison-protocol.md', 'search-integration-protocol.md']:continue
   target=stage/rel;target.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(p,target)
  (stage/'README.md').write_bytes((ROOT/'README.md').read_bytes())
  manifest={str(p.relative_to(stage)):hashlib.sha256(p.read_bytes()).hexdigest() for p in sorted(stage.rglob('*')) if p.is_file()}
