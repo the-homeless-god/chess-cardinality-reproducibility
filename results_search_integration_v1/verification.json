@@ -1,0 +1,875 @@
+{
+  "roots_verified": 90,
+  "references_verified": 60,
+  "timed_trials_verified": 2880,
+  "fixed_depth_rows_verified": 96,
+  "games_replayed": 70,
+  "fresh_fixed_depth": [
+    {
+      "id": "B202504-156",
+      "mode": "baseline",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": -236,
+      "nodes": 48,
+      "seconds": 0.002146875000107684
+    },
+    {
+      "id": "B202504-156",
+      "mode": "A",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": -236,
+      "nodes": 43,
+      "seconds": 0.0018191670001215243
+    },
+    {
+      "id": "B202504-156",
+      "mode": "B",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": -236,
+      "nodes": 49,
+      "seconds": 0.004443416999947658
+    },
+    {
+      "id": "B202504-156",
+      "mode": "ABC",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": -236,
+      "nodes": 43,
+      "seconds": 0.004400750000058906
+    },
+    {
+      "id": "B202504-156",
+      "mode": "observed",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": -236,
+      "nodes": 43,
+      "seconds": 0.004610582999930557
+    },
+    {
+      "id": "B202504-156",
+      "mode": "inferred",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": -236,
+      "nodes": 42,
+      "seconds": 0.005244333000064216
+    },
+    {
+      "id": "B202504-156",
+      "mode": "GA2",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": -236,
+      "nodes": 47,
+      "seconds": 0.022662332999971113
+    },
+    {
+      "id": "B202504-156",
+      "mode": "cascade",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": -236,
+      "nodes": 47,
+      "seconds": 0.022585041999946043
+    },
+    {
+      "id": "B202504-207",
+      "mode": "baseline",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 14,
+      "nodes": 101,
+      "seconds": 0.004342250000036074
+    },
+    {
+      "id": "B202504-207",
+      "mode": "A",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 14,
+      "nodes": 103,
+      "seconds": 0.0046155410000210395
+    },
+    {
+      "id": "B202504-207",
+      "mode": "B",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 14,
+      "nodes": 100,
+      "seconds": 0.010210958000016035
+    },
+    {
+      "id": "B202504-207",
+      "mode": "ABC",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 14,
+      "nodes": 103,
+      "seconds": 0.009872082999891063
+    },
+    {
+      "id": "B202504-207",
+      "mode": "observed",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 14,
+      "nodes": 103,
+      "seconds": 0.009881707999966238
+    },
+    {
+      "id": "B202504-207",
+      "mode": "inferred",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 14,
+      "nodes": 103,
+      "seconds": 0.010974540999995952
+    },
+    {
+      "id": "B202504-207",
+      "mode": "GA2",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 14,
+      "nodes": 101,
+      "seconds": 0.08238645799997357
+    },
+    {
+      "id": "B202504-207",
+      "mode": "cascade",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 14,
+      "nodes": 101,
+      "seconds": 0.08395279100000153
+    },
+    {
+      "id": "B202504-189",
+      "mode": "baseline",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 805,
+      "nodes": 57,
+      "seconds": 0.0021261670001422317
+    },
+    {
+      "id": "B202504-189",
+      "mode": "A",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 805,
+      "nodes": 62,
+      "seconds": 0.0025184999999510183
+    },
+    {
+      "id": "B202504-189",
+      "mode": "B",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 805,
+      "nodes": 57,
+      "seconds": 0.0034556670000256418
+    },
+    {
+      "id": "B202504-189",
+      "mode": "ABC",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 805,
+      "nodes": 62,
+      "seconds": 0.003587874999993801
+    },
+    {
+      "id": "B202504-189",
+      "mode": "observed",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 805,
+      "nodes": 62,
+      "seconds": 0.0036271249998662825
+    },
+    {
+      "id": "B202504-189",
+      "mode": "inferred",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 805,
+      "nodes": 62,
+      "seconds": 0.0042792080000708665
+    },
+    {
+      "id": "B202504-189",
+      "mode": "GA2",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 805,
+      "nodes": 62,
+      "seconds": 0.013687249999975393
+    },
+    {
+      "id": "B202504-189",
+      "mode": "cascade",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 805,
+      "nodes": 62,
+      "seconds": 0.014255457999979626
+    },
+    {
+      "id": "B202504-082",
+      "mode": "baseline",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": -625,
+      "nodes": 56,
+      "seconds": 0.002070500000172615
+    },
+    {
+      "id": "B202504-082",
+      "mode": "A",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": -625,
+      "nodes": 54,
+      "seconds": 0.001986708999993425
+    },
+    {
+      "id": "B202504-082",
+      "mode": "B",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": -625,
+      "nodes": 56,
+      "seconds": 0.004771542000071349
+    },
+    {
+      "id": "B202504-082",
+      "mode": "ABC",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": -625,
+      "nodes": 54,
+      "seconds": 0.0046312909998960095
+    },
+    {
+      "id": "B202504-082",
+      "mode": "observed",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": -625,
+      "nodes": 54,
+      "seconds": 0.0044023340001331235
+    },
+    {
+      "id": "B202504-082",
+      "mode": "inferred",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": -625,
+      "nodes": 54,
+      "seconds": 0.005351957999891965
+    },
+    {
+      "id": "B202504-082",
+      "mode": "GA2",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": -625,
+      "nodes": 54,
+      "seconds": 0.01687791700010166
+    },
+    {
+      "id": "B202504-082",
+      "mode": "cascade",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": -625,
+      "nodes": 54,
+      "seconds": 0.016526207999959297
+    },
+    {
+      "id": "P-00bzC",
+      "mode": "baseline",
+      "original_depth": 1,
+      "repeated_depth": 1,
+      "score": 99999,
+      "nodes": 42,
+      "seconds": 0.002396374999989348
+    },
+    {
+      "id": "P-00bzC",
+      "mode": "A",
+      "original_depth": 1,
+      "repeated_depth": 1,
+      "score": 99999,
+      "nodes": 28,
+      "seconds": 0.0021076670000184095
+    },
+    {
+      "id": "P-00bzC",
+      "mode": "B",
+      "original_depth": 1,
+      "repeated_depth": 1,
+      "score": 99999,
+      "nodes": 61,
+      "seconds": 0.020927166000092257
+    },
+    {
+      "id": "P-00bzC",
+      "mode": "ABC",
+      "original_depth": 1,
+      "repeated_depth": 1,
+      "score": 99999,
+      "nodes": 28,
+      "seconds": 0.01841908300002615
+    },
+    {
+      "id": "P-00bzC",
+      "mode": "observed",
+      "original_depth": 1,
+      "repeated_depth": 1,
+      "score": 99999,
+      "nodes": 28,
+      "seconds": 0.01926820900007442
+    },
+    {
+      "id": "P-00bzC",
+      "mode": "inferred",
+      "original_depth": 1,
+      "repeated_depth": 1,
+      "score": 99999,
+      "nodes": 28,
+      "seconds": 0.020000959000071816
+    },
+    {
+      "id": "P-00bzC",
+      "mode": "GA2",
+      "original_depth": 1,
+      "repeated_depth": 1,
+      "score": 99999,
+      "nodes": 34,
+      "seconds": 0.41769220799983486
+    },
+    {
+      "id": "P-00bzC",
+      "mode": "cascade",
+      "original_depth": 1,
+      "repeated_depth": 1,
+      "score": 99999,
+      "nodes": 34,
+      "seconds": 0.4031153329999597
+    },
+    {
+      "id": "P-00BNd",
+      "mode": "baseline",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 259,
+      "nodes": 472,
+      "seconds": 0.026892374999988533
+    },
+    {
+      "id": "P-00BNd",
+      "mode": "A",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 259,
+      "nodes": 472,
+      "seconds": 0.027246708000120634
+    },
+    {
+      "id": "P-00BNd",
+      "mode": "B",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 259,
+      "nodes": 472,
+      "seconds": 0.0648308749998705
+    },
+    {
+      "id": "P-00BNd",
+      "mode": "ABC",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 259,
+      "nodes": 472,
+      "seconds": 0.06470920800006752
+    },
+    {
+      "id": "P-00BNd",
+      "mode": "observed",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 259,
+      "nodes": 472,
+      "seconds": 0.0653122500000336
+    },
+    {
+      "id": "P-00BNd",
+      "mode": "inferred",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 259,
+      "nodes": 472,
+      "seconds": 0.06701683400001457
+    },
+    {
+      "id": "P-00BNd",
+      "mode": "GA2",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 259,
+      "nodes": 472,
+      "seconds": 1.2032473750000463
+    },
+    {
+      "id": "P-00BNd",
+      "mode": "cascade",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 259,
+      "nodes": 472,
+      "seconds": 1.2055042090000825
+    },
+    {
+      "id": "P-002HE",
+      "mode": "baseline",
+      "original_depth": 1,
+      "repeated_depth": 1,
+      "score": 99999,
+      "nodes": 88,
+      "seconds": 0.006353041000011217
+    },
+    {
+      "id": "P-002HE",
+      "mode": "A",
+      "original_depth": 1,
+      "repeated_depth": 1,
+      "score": 99999,
+      "nodes": 45,
+      "seconds": 0.0041451249999227
+    },
+    {
+      "id": "P-002HE",
+      "mode": "B",
+      "original_depth": 1,
+      "repeated_depth": 1,
+      "score": 99999,
+      "nodes": 94,
+      "seconds": 0.044735166000009485
+    },
+    {
+      "id": "P-002HE",
+      "mode": "ABC",
+      "original_depth": 1,
+      "repeated_depth": 1,
+      "score": 99999,
+      "nodes": 45,
+      "seconds": 0.03998604200000955
+    },
+    {
+      "id": "P-002HE",
+      "mode": "observed",
+      "original_depth": 1,
+      "repeated_depth": 1,
+      "score": 99999,
+      "nodes": 45,
+      "seconds": 0.039831000000049244
+    },
+    {
+      "id": "P-002HE",
+      "mode": "inferred",
+      "original_depth": 1,
+      "repeated_depth": 1,
+      "score": 99999,
+      "nodes": 45,
+      "seconds": 0.04091512500008321
+    },
+    {
+      "id": "P-002HE",
+      "mode": "GA2",
+      "original_depth": 1,
+      "repeated_depth": 1,
+      "score": 99999,
+      "nodes": 81,
+      "seconds": 1.2282207499999913
+    },
+    {
+      "id": "P-002HE",
+      "mode": "cascade",
+      "original_depth": 1,
+      "repeated_depth": 1,
+      "score": 99999,
+      "nodes": 80,
+      "seconds": 1.233174665999968
+    },
+    {
+      "id": "P-01Az7",
+      "mode": "baseline",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 205,
+      "nodes": 429,
+      "seconds": 0.02707425000016883
+    },
+    {
+      "id": "P-01Az7",
+      "mode": "A",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 205,
+      "nodes": 429,
+      "seconds": 0.02776304199983315
+    },
+    {
+      "id": "P-01Az7",
+      "mode": "B",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 205,
+      "nodes": 429,
+      "seconds": 0.06577508400005172
+    },
+    {
+      "id": "P-01Az7",
+      "mode": "ABC",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 205,
+      "nodes": 429,
+      "seconds": 0.06740191700009746
+    },
+    {
+      "id": "P-01Az7",
+      "mode": "observed",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 205,
+      "nodes": 429,
+      "seconds": 0.0673947920001865
+    },
+    {
+      "id": "P-01Az7",
+      "mode": "inferred",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 205,
+      "nodes": 429,
+      "seconds": 0.06973900000002686
+    },
+    {
+      "id": "P-01Az7",
+      "mode": "GA2",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 205,
+      "nodes": 429,
+      "seconds": 1.2755623329999253
+    },
+    {
+      "id": "P-01Az7",
+      "mode": "cascade",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 205,
+      "nodes": 429,
+      "seconds": 1.2663159999999607
+    },
+    {
+      "id": "M-09960",
+      "mode": "baseline",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 16,
+      "nodes": 389,
+      "seconds": 0.025864875000024767
+    },
+    {
+      "id": "M-09960",
+      "mode": "A",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 16,
+      "nodes": 389,
+      "seconds": 0.026323207999894294
+    },
+    {
+      "id": "M-09960",
+      "mode": "B",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 16,
+      "nodes": 389,
+      "seconds": 0.05549825000002784
+    },
+    {
+      "id": "M-09960",
+      "mode": "ABC",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 16,
+      "nodes": 389,
+      "seconds": 0.054856250000057116
+    },
+    {
+      "id": "M-09960",
+      "mode": "observed",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 16,
+      "nodes": 389,
+      "seconds": 0.055615041000010024
+    },
+    {
+      "id": "M-09960",
+      "mode": "inferred",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 16,
+      "nodes": 389,
+      "seconds": 0.058135624999977153
+    },
+    {
+      "id": "M-09960",
+      "mode": "GA2",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 16,
+      "nodes": 389,
+      "seconds": 1.0541967080000632
+    },
+    {
+      "id": "M-09960",
+      "mode": "cascade",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 16,
+      "nodes": 389,
+      "seconds": 1.0654221669999515
+    },
+    {
+      "id": "M-04619",
+      "mode": "baseline",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 140,
+      "nodes": 1020,
+      "seconds": 0.059693165999988196
+    },
+    {
+      "id": "M-04619",
+      "mode": "A",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 140,
+      "nodes": 1040,
+      "seconds": 0.061972625000180415
+    },
+    {
+      "id": "M-04619",
+      "mode": "B",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 140,
+      "nodes": 1028,
+      "seconds": 0.1030444160001025
+    },
+    {
+      "id": "M-04619",
+      "mode": "ABC",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 140,
+      "nodes": 1040,
+      "seconds": 0.10595704100001058
+    },
+    {
+      "id": "M-04619",
+      "mode": "observed",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 140,
+      "nodes": 1040,
+      "seconds": 0.10594187499987129
+    },
+    {
+      "id": "M-04619",
+      "mode": "inferred",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 140,
+      "nodes": 1040,
+      "seconds": 0.10523345799992967
+    },
+    {
+      "id": "M-04619",
+      "mode": "GA2",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 140,
+      "nodes": 988,
+      "seconds": 1.2438218749998668
+    },
+    {
+      "id": "M-04619",
+      "mode": "cascade",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 140,
+      "nodes": 987,
+      "seconds": 1.235202124999887
+    },
+    {
+      "id": "M-23646",
+      "mode": "baseline",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": -24,
+      "nodes": 2671,
+      "seconds": 0.1734033749999071
+    },
+    {
+      "id": "M-23646",
+      "mode": "A",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": -24,
+      "nodes": 2657,
+      "seconds": 0.17267370799982018
+    },
+    {
+      "id": "M-23646",
+      "mode": "B",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": -24,
+      "nodes": 2739,
+      "seconds": 0.2108060000000478
+    },
+    {
+      "id": "M-23646",
+      "mode": "ABC",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": -24,
+      "nodes": 2672,
+      "seconds": 0.20880237500000476
+    },
+    {
+      "id": "M-23646",
+      "mode": "observed",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": -24,
+      "nodes": 2672,
+      "seconds": 0.21148737500016068
+    },
+    {
+      "id": "M-23646",
+      "mode": "inferred",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": -24,
+      "nodes": 2672,
+      "seconds": 0.210350999999946
+    },
+    {
+      "id": "M-23646",
+      "mode": "GA2",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": -24,
+      "nodes": 2861,
+      "seconds": 1.2806136669998978
+    },
+    {
+      "id": "M-23646",
+      "mode": "cascade",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": -24,
+      "nodes": 3229,
+      "seconds": 1.3291284169999926
+    },
+    {
+      "id": "M-09309",
+      "mode": "baseline",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 20,
+      "nodes": 801,
+      "seconds": 0.04745749999983673
+    },
+    {
+      "id": "M-09309",
+      "mode": "A",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 20,
+      "nodes": 815,
+      "seconds": 0.048445666999896275
+    },
+    {
+      "id": "M-09309",
+      "mode": "B",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 20,
+      "nodes": 805,
+      "seconds": 0.07509841699993558
+    },
+    {
+      "id": "M-09309",
+      "mode": "ABC",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 20,
+      "nodes": 806,
+      "seconds": 0.07239400000003116
+    },
+    {
+      "id": "M-09309",
+      "mode": "observed",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 20,
+      "nodes": 806,
+      "seconds": 0.07337937500005864
+    },
+    {
+      "id": "M-09309",
+      "mode": "inferred",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 20,
+      "nodes": 806,
+      "seconds": 0.07576212500021029
+    },
+    {
+      "id": "M-09309",
+      "mode": "GA2",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 20,
+      "nodes": 792,
+      "seconds": 0.8188611250000122
+    },
+    {
+      "id": "M-09309",
+      "mode": "cascade",
+      "original_depth": 2,
+      "repeated_depth": 2,
+      "score": 20,
+      "nodes": 788,
+      "seconds": 0.8196340000001783
+    }
+  ],
+  "independent_scientific_replication": false,
+  "python": "3.14.6 (main, Jun 10 2026, 10:03:53) [Clang 21.0.0 (clang-2100.0.123.102)]"
+}

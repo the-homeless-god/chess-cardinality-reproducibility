@@ -1,0 +1,45 @@
+{
+  "python": "3.14.6 (main, Jun 10 2026, 10:03:53) [Clang 21.0.0 (clang-2100.0.123.102)]",
+  "chess": "1.11.2",
+  "platform": "macOS-26.3.1-arm64-arm-64bit-Mach-O",
+  "machine": "arm64",
+  "protocol_sha256": "d239c9880b934c3682438afc5be7e7b3b8b27c4983f22062073d6ad3f1d76cd0",
+  "script_sha256": "31b4c8247fb45eacd4a722d739b938bcb787df75c988d856a54c0da60834d42b",
+  "search_sha256": "b2f72d4ec8c4e21b11dbb502e0aa74891b66ed0ae126d09d6ddef2e10ed2ec4a",
+  "positions_sha256": "a733bf44d143e8d09be03fa584a81ae3772bf626f8c25890015dfadf01b5ffa3",
+  "weights": {
+    "GA2": [
+      1.311096534561334,
+      0.6161690310925808,
+      -1.3594529661704162,
+      0.6880432550834044,
+      -1.59211820371096,
+      1.5540877381691933
+    ],
+    "cascade": [
+      0.6284562633638383,
+      0.07441028189130844,
+      0.29022970325554165,
+      -0.41174972349854144,
+      -0.858527682639866,
+      -0.16782056658574485
+    ]
+  },
+  "workstation_isolated": false,
+  "wall_budget_includes_features": true,
+  "engine_sha256": "9345c44970093cabed9757be86a9ca86809a5b6ca1bdc654cf51a5eed7568858",
+  "engine_options": {
+    "Threads": 1,
+    "Hash": 16,
+    "SyzygyPath": ""
+  },
+  "engine_release": "sf_17.1",
+  "preflight_correction": "Asynchronous deadline during board.push could corrupt a search stack; search now polls clock at safe checkpoints. Signal is confined to feature preparation on a disposable copy. Preflight trials excluded and retained separately.",
+  "terminal_root_correction": "Terminal insufficient-material positions excluded from selection after preflight; exploratory rows retained separately and not scored.",
+  "arithmetic_correction": "70 games = seven modes x five starts x two sides, ten games per mode; initial prose said fourteen. No experimental trials changed.",
+  "dependency_sha256": {
+    "run_scenario_policies.py": "00ac63ef2d01be2b1842aa95c484f6d9b958c4c78c6fb09e4ac419ec5825b04f",
+    "run_ga_experiment.py": "a6ca11d8265639a43fa27072db64cef9cced266d88eabd7e89e56d396077178c",
+    "results_ga_2025_03/runs.json": "3435a32adf9b674e95be800f2547a33dfa3360ec95a0362e0ea31206450b2042"
+  }
+}

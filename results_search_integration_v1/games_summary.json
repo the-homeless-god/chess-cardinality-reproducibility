@@ -1,0 +1,140 @@
+{
+  "games": 70,
+  "budget_seconds": 0.025,
+  "max_plies": 240,
+  "modes": {
+    "baseline": {
+      "games": 10,
+      "wins": 3,
+      "draws": 3,
+      "losses": 4,
+      "unresolved": 0,
+      "known_points": 4.5,
+      "score_bounds": [
+        0.45,
+        0.45
+      ],
+      "candidate_fallbacks": 30,
+      "candidate_moves": 877,
+      "candidate_mean_seconds": 0.02498066541961515,
+      "terminations": {
+        "THREEFOLD_REPETITION": 3,
+        "CHECKMATE": 7
+      }
+    },
+    "A": {
+      "games": 10,
+      "wins": 5,
+      "draws": 3,
+      "losses": 2,
+      "unresolved": 0,
+      "known_points": 6.5,
+      "score_bounds": [
+        0.65,
+        0.65
+      ],
+      "candidate_fallbacks": 8,
+      "candidate_moves": 312,
+      "candidate_mean_seconds": 0.024601400644228714,
+      "terminations": {
+        "CHECKMATE": 7,
+        "THREEFOLD_REPETITION": 3
+      }
+    },
+    "B": {
+      "games": 10,
+      "wins": 0,
+      "draws": 2,
+      "losses": 8,
+      "unresolved": 0,
+      "known_points": 1.0,
+      "score_bounds": [
+        0.1,
+        0.1
+      ],
+      "candidate_fallbacks": 146,
+      "candidate_moves": 201,
+      "candidate_mean_seconds": 0.028389405845780005,
+      "terminations": {
+        "CHECKMATE": 8,
+        "THREEFOLD_REPETITION": 2
+      }
+    },
+    "ABC": {
+      "games": 10,
+      "wins": 0,
+      "draws": 3,
+      "losses": 7,
+      "unresolved": 0,
+      "known_points": 1.5,
+      "score_bounds": [
+        0.15,
+        0.15
+      ],
+      "candidate_fallbacks": 139,
+      "candidate_moves": 203,
+      "candidate_mean_seconds": 0.028342126438429423,
+      "terminations": {
+        "THREEFOLD_REPETITION": 3,
+        "CHECKMATE": 7
+      }
+    },
+    "observed": {
+      "games": 10,
+      "wins": 0,
+      "draws": 2,
+      "losses": 8,
+      "unresolved": 0,
+      "known_points": 1.0,
+      "score_bounds": [
+        0.1,
+        0.1
+      ],
+      "candidate_fallbacks": 134,
+      "candidate_moves": 214,
+      "candidate_mean_seconds": 0.028006740850475376,
+      "terminations": {
+        "CHECKMATE": 8,
+        "THREEFOLD_REPETITION": 2
+      }
+    },
+    "inferred": {
+      "games": 10,
+      "wins": 0,
+      "draws": 2,
+      "losses": 8,
+      "unresolved": 0,
+      "known_points": 1.0,
+      "score_bounds": [
+        0.1,
+        0.1
+      ],
+      "candidate_fallbacks": 133,
+      "candidate_moves": 194,
+      "candidate_mean_seconds": 0.02944532496907573,
+      "terminations": {
+        "CHECKMATE": 8,
+        "THREEFOLD_REPETITION": 2
+      }
+    },
+    "cascade": {
+      "games": 10,
+      "wins": 0,
+      "draws": 2,
+      "losses": 8,
+      "unresolved": 0,
+      "known_points": 1.0,
+      "score_bounds": [
+        0.1,
+        0.1
+      ],
+      "candidate_fallbacks": 183,
+      "candidate_moves": 190,
+      "candidate_mean_seconds": 0.03351827168419995,
+      "terminations": {
+        "THREEFOLD_REPETITION": 2,
+        "CHECKMATE": 8
+      }
+    }
+  }
+}

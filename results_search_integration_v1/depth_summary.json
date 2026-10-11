@@ -1,0 +1,46 @@
+{
+  "rows": 96,
+  "score_disagreements": [],
+  "modes": {
+    "baseline": {
+      "completed": 10,
+      "seconds_mean": 0.03178923616669257,
+      "nodes_mean": 514.5
+    },
+    "A": {
+      "completed": 10,
+      "seconds_mean": 0.03175830549999622,
+      "nodes_mean": 511.4166666666667
+    },
+    "B": {
+      "completed": 10,
+      "seconds_mean": 0.055562930666629505,
+      "nodes_mean": 523.25
+    },
+    "ABC": {
+      "completed": 10,
+      "seconds_mean": 0.055145767250015375,
+      "nodes_mean": 511.9166666666667
+    },
+    "observed": {
+      "completed": 10,
+      "seconds_mean": 0.05517999641667378,
+      "nodes_mean": 511.9166666666667
+    },
+    "inferred": {
+      "completed": 10,
+      "seconds_mean": 0.056576694250035565,
+      "nodes_mean": 511.8333333333333
+    },
+    "GA2": {
+      "completed": 10,
+      "seconds_mean": 0.7258876596666823,
+      "nodes_mean": 525.8333333333334
+    },
+    "cascade": {
+      "completed": 10,
+      "seconds_mean": 0.7286153125833342,
+      "nodes_mean": 556
+    }
+  }
+}

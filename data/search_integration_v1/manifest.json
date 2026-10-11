@@ -1,0 +1,52 @@
+{
+  "seed": "20261011-search-v1",
+  "roots": 90,
+  "group_counts": {
+    "endgame": 30,
+    "tactics": 30,
+    "middlegame": 30
+  },
+  "puzzles": {
+    "url": "https://database.lichess.org/lichess_db_puzzle.csv.zst",
+    "etag": "\"6abf70a1-125007eb\"",
+    "last_modified": "Fri, 02 Oct 2026 08:51:45 GMT",
+    "compressed_prefix_bytes": 1048576,
+    "compressed_prefix_sha256": "dc8043e631315c5219880b4082a9f4a79c9030f6187dbd6267cf7b759cec21ab",
+    "csv_prefix_rows": 2000,
+    "csv_prefix_sha256": "1b6d987247381ad7f2e613513336354c2b6e9922d24448d27695e639d881d706",
+    "license": "CC0",
+    "scope": "first 2000 rows, not whole database"
+  },
+  "broadcast": {
+    "url": "https://database.lichess.org/broadcast/lichess_db_broadcast_2025-06.pgn.zst",
+    "etag": "\"6863a2d1-11edb4b\"",
+    "last_modified": "Tue, 01 Jul 2025 08:56:49 GMT",
+    "sha256": "b226325f2798003e4811dca8ea9556dc91837ec9ae3493f00ba102b50a73a43c",
+    "official_sha256": "b226325f2798003e4811dca8ea9556dc91837ec9ae3493f00ba102b50a73a43c",
+    "bytes": 18799435,
+    "games": 30185,
+    "candidates": 27246,
+    "license": "CC BY-SA 4.0"
+  },
+  "positions_sha256": "a733bf44d143e8d09be03fa584a81ae3772bf626f8c25890015dfadf01b5ffa3",
+  "script_sha256": "22fb53ca5dc87d2e9d3090fb2c78bf93a189f18f9793c6957ca9e8fd2ed50387",
+  "labels_used_for_selection": false,
+  "game_starts_sha256": "35270861996c684eef7f9ee11f3df718571fffbbd517229cfcfd9b3145e45b21",
+  "selection_correction_before_search": "Opening catalog has PGN, not UCI; parsed PGN to select the specified four prefixes.",
+  "excluded_terminal_april_roots": [
+    "B202504-007",
+    "B202504-013",
+    "B202504-014",
+    "B202504-015",
+    "B202504-017",
+    "B202504-019",
+    "B202504-026",
+    "B202504-028",
+    "B202504-030",
+    "B202504-036",
+    "B202504-044",
+    "B202504-048",
+    "B202504-050"
+  ],
+  "endgame_selection": "six per piece stratum, SHA-256 rank, exclude naturally terminal/claimable-draw roots before trials"
+}

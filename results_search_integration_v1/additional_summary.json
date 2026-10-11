@@ -1,0 +1,147 @@
+{
+  "endgame_informative_roots": 17,
+  "informative_accuracy": {
+    "0.05": {
+      "baseline": 0.9411764705882353,
+      "A": 0.9411764705882353,
+      "B": 0.9411764705882353,
+      "ABC": 0.9411764705882353,
+      "observed": 0.9411764705882353,
+      "inferred": 0.9411764705882353,
+      "GA2": 0.7058823529411765,
+      "cascade": 0.7058823529411765
+    },
+    "0.2": {
+      "baseline": 0.9411764705882353,
+      "A": 0.9411764705882353,
+      "B": 0.9411764705882353,
+      "ABC": 0.9411764705882353,
+      "observed": 0.9411764705882353,
+      "inferred": 0.9411764705882353,
+      "GA2": 0.8823529411764706,
+      "cascade": 0.8823529411764706
+    }
+  },
+  "tactics_mate_alternatives": {
+    "0.05": {
+      "baseline": 0.7333333333333333,
+      "A": 0.7333333333333333,
+      "B": 0.5666666666666667,
+      "ABC": 0.5833333333333334,
+      "observed": 0.5666666666666667,
+      "inferred": 0.5666666666666667,
+      "GA2": 0.1,
+      "cascade": 0.1
+    },
+    "0.2": {
+      "baseline": 0.8333333333333334,
+      "A": 0.8333333333333334,
+      "B": 0.8166666666666667,
+      "ABC": 0.8333333333333334,
+      "observed": 0.8333333333333334,
+      "inferred": 0.8333333333333334,
+      "GA2": 0.16666666666666666,
+      "cascade": 0.16666666666666666
+    }
+  },
+  "fixed_depth_paired_vs_baseline": {
+    "baseline": {
+      "paired_completed": 10,
+      "mean_time_ratio": 1.0,
+      "mean_node_ratio": 1.0
+    },
+    "A": {
+      "paired_completed": 10,
+      "mean_time_ratio": 1.0094912761894248,
+      "mean_node_ratio": 0.999948483891876
+    },
+    "B": {
+      "paired_completed": 10,
+      "mean_time_ratio": 1.975876292751307,
+      "mean_node_ratio": 1.0049227868018666
+    },
+    "ABC": {
+      "paired_completed": 10,
+      "mean_time_ratio": 1.9834140023869542,
+      "mean_node_ratio": 0.9993864758066997
+    },
+    "observed": {
+      "paired_completed": 10,
+      "mean_time_ratio": 2.002608523896552,
+      "mean_node_ratio": 0.9993864758066997
+    },
+    "inferred": {
+      "paired_completed": 10,
+      "mean_time_ratio": 2.1176889662069573,
+      "mean_node_ratio": 0.9973031424733664
+    },
+    "GA2": {
+      "paired_completed": 10,
+      "mean_time_ratio": 22.367881329429483,
+      "mean_node_ratio": 1.00596975817115
+    },
+    "cascade": {
+      "paired_completed": 10,
+      "mean_time_ratio": 22.402046132817773,
+      "mean_node_ratio": 1.019149954556694
+    }
+  },
+  "game_score_bootstrap": {
+    "baseline": {
+      "mean": 0.45,
+      "ci95": [
+        0.35,
+        0.5
+      ],
+      "n_roots": 5
+    },
+    "A": {
+      "mean": 0.65,
+      "ci95": [
+        0.5,
+        0.85
+      ],
+      "n_roots": 5
+    },
+    "B": {
+      "mean": 0.1,
+      "ci95": [
+        0.0,
+        0.3
+      ],
+      "n_roots": 5
+    },
+    "ABC": {
+      "mean": 0.15,
+      "ci95": [
+        0.0,
+        0.35
+      ],
+      "n_roots": 5
+    },
+    "observed": {
+      "mean": 0.1,
+      "ci95": [
+        0.0,
+        0.3
+      ],
+      "n_roots": 5
+    },
+    "inferred": {
+      "mean": 0.1,
+      "ci95": [
+        0.0,
+        0.3
+      ],
+      "n_roots": 5
+    },
+    "cascade": {
+      "mean": 0.1,
+      "ci95": [
+        0.0,
+        0.2
+      ],
+      "n_roots": 5
+    }
+  }
+}
