@@ -1,0 +1,69 @@
+{
+  "modes": {
+    "GA2": {
+      "accuracy": 0.804,
+      "informative_accuracy": 0.5545454545454546,
+      "mean_evaluations": 600,
+      "mean_fit_seconds": 0.5298990958006471
+    },
+    "GA1+GA2": {
+      "accuracy": 0.806,
+      "informative_accuracy": 0.5590909090909091,
+      "mean_evaluations": 600,
+      "mean_fit_seconds": 0.5322455456975149
+    },
+    "GA0+GA1+GA2": {
+      "accuracy": 0.806,
+      "informative_accuracy": 0.5590909090909091,
+      "mean_evaluations": 416.4,
+      "mean_fit_seconds": 0.3693579416009015
+    },
+    "GA2_early_stop": {
+      "accuracy": 0.792,
+      "informative_accuracy": 0.5272727272727272,
+      "mean_evaluations": 286.8,
+      "mean_fit_seconds": 0.35759293340051956
+    },
+    "random_weight_search": {
+      "accuracy": 0.804,
+      "informative_accuracy": 0.5545454545454546,
+      "mean_evaluations": 600,
+      "mean_fit_seconds": 0.7106214834995626
+    }
+  },
+  "paired_cascade_minus": {
+    "GA2": {
+      "mean": 0.0020000000000000018,
+      "ci95": [
+        -0.024,
+        0.032
+      ],
+      "roots": 50
+    },
+    "GA1+GA2": {
+      "mean": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "roots": 50
+    },
+    "GA2_early_stop": {
+      "mean": 0.014000000000000002,
+      "ci95": [
+        -0.018,
+        0.052000000000000005
+      ],
+      "roots": 50
+    },
+    "random_weight_search": {
+      "mean": 0.0020000000000000018,
+      "ci95": [
+        -0.007999999999999998,
+        0.016000000000000004
+      ],
+      "roots": 50
+    }
+  },
+  "timing_warning": "Existing modes were timed in earlier executions; across-date fitting times are descriptive, not paired benchmarks."
+}

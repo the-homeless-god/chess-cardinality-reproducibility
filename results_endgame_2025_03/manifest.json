@@ -1,0 +1,10 @@
+{
+  "protocol": "chess-endgame-broadcast-tablebase-v1",
+  "endpoint": "https://tablebase.lichess.ovh/standard",
+  "positions_sha256": "617a26b5b971816bad582491b4837be3c2dead60573351323bd99d16a63d7821",
+  "responses_sha256": "46d272638dc38d4fe65ca04e5a164e302f7e3ab4eea5757920e26d1339e26974",
+  "script_sha256": "760668aacf625f32e87482288326350cd193ea92439a36ebb63c0ed13538585f",
+  "positions": 250,
+  "delay_seconds": 1.2,
+  "move_category_view": "side to move after the candidate move"
+}

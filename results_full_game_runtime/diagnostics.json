@@ -1,0 +1,98 @@
+{
+  "protocol": "full-game-and-runtime-protocol-v1-secondary-diagnostics",
+  "positions_sha256": "6360d6d132681f123b17ae5d6afda9e1981e86af0bd08fb7a5f906d8fb56e789",
+  "games_sha256": "c48dce44bbd2cafeca2763f6fba64cdee0f1b2616410e7e9ce51369620952b66",
+  "root_wdl_sha256": "a795296385fffcf3c3e97dffdb9f99054d52001382d2e6dd0a472b93c461aca2",
+  "root_categories": {
+    "draw": 21,
+    "loss": 14,
+    "win": 15
+  },
+  "informative_roots": 22,
+  "initially_terminal_roots": 5,
+  "termination_counts": {
+    "INSUFFICIENT_MATERIAL": 151,
+    "THREEFOLD_REPETITION": 179,
+    "STALEMATE": 43,
+    "CHECKMATE": 27
+  },
+  "paired_sign_tests": {
+    "observed": {
+      "roots_better_than_identity": 3,
+      "roots_worse_than_identity": 0,
+      "roots_tied": 47,
+      "two_sided_exact_sign_p": 0.25
+    },
+    "inferred": {
+      "roots_better_than_identity": 4,
+      "roots_worse_than_identity": 0,
+      "roots_tied": 46,
+      "two_sided_exact_sign_p": 0.125
+    },
+    "neutral": {
+      "roots_better_than_identity": 4,
+      "roots_worse_than_identity": 0,
+      "roots_tied": 46,
+      "two_sided_exact_sign_p": 0.125
+    },
+    "GA0": {
+      "roots_better_than_identity": 0,
+      "roots_worse_than_identity": 3,
+      "roots_tied": 47,
+      "two_sided_exact_sign_p": 0.25
+    }
+  },
+  "policy_pair_sign_tests": {
+    "observed-inferred": {
+      "positive_roots": 1,
+      "negative_roots": 2,
+      "tied_roots": 47,
+      "two_sided_exact_sign_p": 1.0
+    },
+    "observed-neutral": {
+      "positive_roots": 1,
+      "negative_roots": 2,
+      "tied_roots": 47,
+      "two_sided_exact_sign_p": 1.0
+    },
+    "inferred-neutral": {
+      "positive_roots": 2,
+      "negative_roots": 2,
+      "tied_roots": 46,
+      "two_sided_exact_sign_p": 1.0
+    },
+    "GA0-neutral": {
+      "positive_roots": 0,
+      "negative_roots": 7,
+      "tied_roots": 43,
+      "two_sided_exact_sign_p": 0.015625
+    }
+  },
+  "move_latencies": {
+    "observed": {
+      "moves": 846,
+      "median_seconds": 0.0011432084938860498,
+      "p95_seconds": 0.004400291752972407
+    },
+    "inferred": {
+      "moves": 882,
+      "median_seconds": 0.001772583505953662,
+      "p95_seconds": 0.005009867301851045
+    },
+    "neutral": {
+      "moves": 794,
+      "median_seconds": 0.0010187294974457473,
+      "p95_seconds": 0.004422956700000209
+    },
+    "GA0": {
+      "moves": 766,
+      "median_seconds": 0.005404916497354861,
+      "p95_seconds": 0.04365710400452372
+    },
+    "min_kappa": {
+      "moves": 3289,
+      "median_seconds": 0.00010966700210701674,
+      "p95_seconds": 0.0003892331966198981
+    }
+  }
+}

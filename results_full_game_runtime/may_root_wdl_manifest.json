@@ -1,0 +1,9 @@
+{
+  "protocol": "full-game-and-runtime-protocol-v1-secondary-diagnostic",
+  "positions_sha256": "6360d6d132681f123b17ae5d6afda9e1981e86af0bd08fb7a5f906d8fb56e789",
+  "games_sha256_before_labels": "c48dce44bbd2cafeca2763f6fba64cdee0f1b2616410e7e9ce51369620952b66",
+  "responses_sha256": "a795296385fffcf3c3e97dffdb9f99054d52001382d2e6dd0a472b93c461aca2",
+  "script_sha256": "5482cbdbffa8846ed335bd8caed0a3cecf6943862c42e6424b49aa51d80ebf6e",
+  "positions": 50,
+  "delay_seconds": 1.2
+}

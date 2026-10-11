@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Cite the code and data snapshot used for reproduction."
+title: "Chess experiment code and data"
+type: software
+authors:
+  - family-names: Zimnurov
+    given-names: Marat F.
+version: 1.2.0
+date-released: 2026-10-13
+repository-code: "https://github.com/the-homeless-god/chess-cardinality-reproducibility"
+url: "https://github.com/the-homeless-god/chess-cardinality-reproducibility"

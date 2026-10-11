@@ -1,0 +1,15 @@
+{
+  "python": "3.14.6 (main, Jun 10 2026, 10:03:53) [Clang 21.0.0 (clang-2100.0.123.102)]",
+  "platform": "macOS-26.3.1-arm64-arm-64bit-Mach-O",
+  "machine": "arm64",
+  "chess": "1.11.2",
+  "engine_sha256": "9345c44970093cabed9757be86a9ca86809a5b6ca1bdc654cf51a5eed7568858",
+  "engine_release": "sf_17.1",
+  "options": {
+    "Threads": 1,
+    "Hash": 16,
+    "SyzygyPath": ""
+  },
+  "protocol_sha256": "b04686c03f504b1d16140220b727972475910ae09b29b659d71a602ed5f52955",
+  "script_sha256": "552e3f42e1dc65cfed279f9f11b690bffa14591c449829cca229cddb9ec5ecab"
+}

@@ -1,0 +1,9002 @@
+[
+  {
+    "position_id": "B202504-001",
+    "pieces": 3,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0009889159991871566,
+    "replies_analyzed": 30,
+    "observed": {
+      "uci": "f3f2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f3f2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f3f2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f3f2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-002",
+    "pieces": 3,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0008232079999288544,
+    "replies_analyzed": 25,
+    "observed": {
+      "uci": "a3b3",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "a3b3",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "a3b3",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "a3b3",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-003",
+    "pieces": 3,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.000600875006057322,
+    "replies_analyzed": 22,
+    "observed": {
+      "uci": "b1c1",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "b1c1",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b1c1",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b1c1",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-004",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0007909580017440021,
+    "replies_analyzed": 27,
+    "observed": {
+      "uci": "e1d2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "e1d2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "e1f2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "e1f2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-005",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0016300829884130508,
+    "replies_analyzed": 68,
+    "observed": {
+      "uci": "g5f4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "g5f4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "g5f4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "g5f4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-006",
+    "pieces": 3,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0020448750001378357,
+    "replies_analyzed": 108,
+    "observed": {
+      "uci": "c6b6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c6b6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c6b6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "c6b6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-007",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0023571250058012083,
+    "replies_analyzed": 88,
+    "observed": {
+      "uci": "f5f4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f5f4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f5f4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f5f4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-008",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.001786875000107102,
+    "replies_analyzed": 77,
+    "observed": {
+      "uci": "e6d5",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "e6d5",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "e6d5",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "e6d5",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-009",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0008687919907970354,
+    "replies_analyzed": 31,
+    "observed": {
+      "uci": "g3g4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g3g4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g3g4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g3g4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-010",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0009259590005967766,
+    "replies_analyzed": 38,
+    "observed": {
+      "uci": "g3g4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g3g4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g3g4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g3g4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-011",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.001247334002982825,
+    "replies_analyzed": 48,
+    "observed": {
+      "uci": "e4d4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "e4d4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "e4d4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "e4d4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-012",
+    "pieces": 3,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0014729590038768947,
+    "replies_analyzed": 64,
+    "observed": {
+      "uci": "c3d2",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c3d2",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c3d2",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b3b4",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-013",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0015353750059148297,
+    "replies_analyzed": 60,
+    "observed": {
+      "uci": "e6e5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "e6e5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "e6e5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "e6e5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-014",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.001664416995481588,
+    "replies_analyzed": 70,
+    "observed": {
+      "uci": "b3b2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "b3b2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b3b2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b3a2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-015",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0018466249894117936,
+    "replies_analyzed": 80,
+    "observed": {
+      "uci": "f4f3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f4f3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f4f3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f4e3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-016",
+    "pieces": 3,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0006800830014981329,
+    "replies_analyzed": 34,
+    "observed": {
+      "uci": "b8c8",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "b8c8",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b8c8",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b8c8",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-017",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.00232191699615214,
+    "replies_analyzed": 60,
+    "observed": {
+      "uci": "d3d2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "d3d2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "d3d2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "d3d2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-018",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "neutral",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0012466250045690686,
+    "replies_analyzed": 43,
+    "observed": {
+      "uci": "a3b2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "a3b2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "a3b2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "a3a2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-019",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0023714580020168796,
+    "replies_analyzed": 98,
+    "observed": {
+      "uci": "e3d4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "e3d4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "e3d4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "e3d4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-020",
+    "pieces": 3,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0021927920024609193,
+    "replies_analyzed": 75,
+    "observed": {
+      "uci": "h8g8",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "h8g8",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b1g1",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b1g1",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-021",
+    "pieces": 3,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0010797919967444614,
+    "replies_analyzed": 37,
+    "observed": {
+      "uci": "e3f3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "e3f3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "e3f3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "e3f3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-022",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0016237079980783165,
+    "replies_analyzed": 70,
+    "observed": {
+      "uci": "b5c4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "b5c4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b5c4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b5c4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-023",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0013607080036308616,
+    "replies_analyzed": 46,
+    "observed": {
+      "uci": "f5e6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "f5e6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "f5g4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f5g4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-024",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0013142080133548006,
+    "replies_analyzed": 47,
+    "observed": {
+      "uci": "g3f3",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "g3f3",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "g3f3",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "g3f3",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-025",
+    "pieces": 3,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0020404579991009086,
+    "replies_analyzed": 82,
+    "observed": {
+      "uci": "g5g6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g5g6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g5g6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g5g6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-026",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "neutral",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0021271250006975606,
+    "replies_analyzed": 78,
+    "observed": {
+      "uci": "e3e2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "e3e2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "e3e2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "e3e2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-027",
+    "pieces": 3,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.001400249995640479,
+    "replies_analyzed": 56,
+    "observed": {
+      "uci": "g6g5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g6g5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g6g5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g6f5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-028",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0013517079933080822,
+    "replies_analyzed": 60,
+    "observed": {
+      "uci": "a3b2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "a3b2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "a3b2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "a3a2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-029",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0006304170092334971,
+    "replies_analyzed": 18,
+    "observed": {
+      "uci": "h7g7",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "h7g7",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "h7g7",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "h7g7",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-030",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0015478330024052411,
+    "replies_analyzed": 64,
+    "observed": {
+      "uci": "e7f8",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "e7f8",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "e7f8",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "e7f8",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-031",
+    "pieces": 3,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0018712089949985966,
+    "replies_analyzed": 42,
+    "observed": {
+      "uci": "b7b8",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "b7b8",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b7b8",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b7b8",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-032",
+    "pieces": 3,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": false,
+    "seconds": 0.0008411659946432337,
+    "replies_analyzed": 25,
+    "observed": {
+      "uci": "f7f6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f7e8",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f7f6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f7f6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-033",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0009424589952686802,
+    "replies_analyzed": 36,
+    "observed": {
+      "uci": "g2f2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g2f2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g2f2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g2f2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-034",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.001840041994000785,
+    "replies_analyzed": 69,
+    "observed": {
+      "uci": "e4d3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "e4d3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "e4d3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "e4d3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-035",
+    "pieces": 3,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0012921669986099005,
+    "replies_analyzed": 46,
+    "observed": {
+      "uci": "b4c4",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "b4c4",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "b4c4",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "b4c4",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-036",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0016374999977415428,
+    "replies_analyzed": 58,
+    "observed": {
+      "uci": "g4g5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g4g5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g4g5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g4g5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-037",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0009267499990528449,
+    "replies_analyzed": 35,
+    "observed": {
+      "uci": "b8c7",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "b8c7",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b8c7",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b8c7",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-038",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.000789249999797903,
+    "replies_analyzed": 26,
+    "observed": {
+      "uci": "c8c7",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c8c7",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c8c7",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "c8c7",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-039",
+    "pieces": 3,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.001019125003949739,
+    "replies_analyzed": 27,
+    "observed": {
+      "uci": "f6f7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f6f7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f6f7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f6f7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-040",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0026681669987738132,
+    "replies_analyzed": 70,
+    "observed": {
+      "uci": "g3g4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g3g4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g3g4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g3g4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-041",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0011477910011308268,
+    "replies_analyzed": 32,
+    "observed": {
+      "uci": "e7e8",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "e7e8",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "e7e8",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "e7d6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-042",
+    "pieces": 3,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0016103749949252233,
+    "replies_analyzed": 64,
+    "observed": {
+      "uci": "g5g6",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g5g6",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g5g6",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f4f5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-043",
+    "pieces": 3,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "neutral",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.001715999998850748,
+    "replies_analyzed": 58,
+    "observed": {
+      "uci": "d1d2",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "d1d2",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "d1d2",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b4b1",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-044",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0018491660011932254,
+    "replies_analyzed": 74,
+    "observed": {
+      "uci": "e2f2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "e2f2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "e2f2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "e2f2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-045",
+    "pieces": 3,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0014460420061368495,
+    "replies_analyzed": 40,
+    "observed": {
+      "uci": "h7h6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "h7h6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "h7h6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "h7h6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-046",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0022297499963315204,
+    "replies_analyzed": 91,
+    "observed": {
+      "uci": "g4f4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g4f4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g4f4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g4f4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-047",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0023775829904479906,
+    "replies_analyzed": 74,
+    "observed": {
+      "uci": "g7f8",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g7f8",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g7f8",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g7f8",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-048",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0007407500088447705,
+    "replies_analyzed": 22,
+    "observed": {
+      "uci": "a2b2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "a2b2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "a2b2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "a2b2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-049",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "neutral",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0005413750041043386,
+    "replies_analyzed": 13,
+    "observed": {
+      "uci": "a4b5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "a4b5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "a4b5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "a4a3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-050",
+    "pieces": 3,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0019662090053316206,
+    "replies_analyzed": 80,
+    "observed": {
+      "uci": "d4d3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "d4d3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "d4d3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "d4d3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-051",
+    "pieces": 4,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": false,
+    "seconds": 0.003011292006704025,
+    "replies_analyzed": 102,
+    "observed": {
+      "uci": "c6a8",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c6d5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c6a8",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "c6a8",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-052",
+    "pieces": 4,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0016260409902315587,
+    "replies_analyzed": 66,
+    "observed": {
+      "uci": "g6f5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g6f5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g6f5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g6f5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-053",
+    "pieces": 4,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0016392909892601892,
+    "replies_analyzed": 57,
+    "observed": {
+      "uci": "e3e4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "e3e4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "e3e4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "e3e4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-054",
+    "pieces": 4,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0015479590074392036,
+    "replies_analyzed": 56,
+    "observed": {
+      "uci": "g2g1",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "g2g1",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "g2g1",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "g2g1",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-055",
+    "pieces": 4,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0010001250047935173,
+    "replies_analyzed": 31,
+    "observed": {
+      "uci": "c5c4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c5c4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c5c4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "c5b5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-056",
+    "pieces": 4,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.001713749996270053,
+    "replies_analyzed": 65,
+    "observed": {
+      "uci": "c5b4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c5b4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c5d5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "c5d5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-057",
+    "pieces": 4,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0030618750024586916,
+    "replies_analyzed": 131,
+    "observed": {
+      "uci": "g5g6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g5g6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g5g6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g5g6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-058",
+    "pieces": 4,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "B",
+    "same_choice": false,
+    "seconds": 0.002428499996312894,
+    "replies_analyzed": 82,
+    "observed": {
+      "uci": "f5g6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f4f3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f4f3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f4f3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-059",
+    "pieces": 4,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0014040829992154613,
+    "replies_analyzed": 46,
+    "observed": {
+      "uci": "a2a1q",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "a2a1q",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "a2a1q",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "a2a1b",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-060",
+    "pieces": 4,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0008708749955985695,
+    "replies_analyzed": 30,
+    "observed": {
+      "uci": "h2g2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "h2g2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "h2g2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "a2a3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-061",
+    "pieces": 4,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.000984457990853116,
+    "replies_analyzed": 48,
+    "observed": {
+      "uci": "d8e8",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "d8e8",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "d8e8",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "d8e8",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-062",
+    "pieces": 4,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0017631670052651316,
+    "replies_analyzed": 46,
+    "observed": {
+      "uci": "g1g6",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "g1g6",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "g1g6",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "e7d6",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-063",
+    "pieces": 4,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0025210419989889488,
+    "replies_analyzed": 88,
+    "observed": {
+      "uci": "b6a5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "b6a5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b6a5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b6a5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-064",
+    "pieces": 4,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0009549169917590916,
+    "replies_analyzed": 36,
+    "observed": {
+      "uci": "b4b5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "b4b5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b4b5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b4a5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-065",
+    "pieces": 4,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.001707250004983507,
+    "replies_analyzed": 39,
+    "observed": {
+      "uci": "h3h2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "h3h2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "h3h2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "h3h2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-066",
+    "pieces": 4,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.007560874990304001,
+    "replies_analyzed": 280,
+    "observed": {
+      "uci": "e4e3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "e4e3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "e4e3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "e4e3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-067",
+    "pieces": 4,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.002040500010480173,
+    "replies_analyzed": 39,
+    "observed": {
+      "uci": "g2h2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g2h2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g2h2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g2h2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-068",
+    "pieces": 4,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0035709169897018,
+    "replies_analyzed": 126,
+    "observed": {
+      "uci": "f3e4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f3e4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f3e4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f3e4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-069",
+    "pieces": 4,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0016725419991416857,
+    "replies_analyzed": 46,
+    "observed": {
+      "uci": "b8a7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "b8a7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b8a7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b8a7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-070",
+    "pieces": 4,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.005100207999930717,
+    "replies_analyzed": 229,
+    "observed": {
+      "uci": "f6d5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f6d5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f6d5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f6d5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-071",
+    "pieces": 4,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0009376670059282333,
+    "replies_analyzed": 21,
+    "observed": {
+      "uci": "a5a6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "a5a6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "a5a6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "a5a6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-072",
+    "pieces": 4,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0009962079930119216,
+    "replies_analyzed": 30,
+    "observed": {
+      "uci": "f4g4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f4g4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f4g4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f4g4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-073",
+    "pieces": 4,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0017543750000186265,
+    "replies_analyzed": 75,
+    "observed": {
+      "uci": "f3g3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f3g3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f3g3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f3g3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-074",
+    "pieces": 4,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.003970916994148865,
+    "replies_analyzed": 165,
+    "observed": {
+      "uci": "g7f7",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g7f7",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g7f7",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g7f7",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-075",
+    "pieces": 4,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0032075000053737313,
+    "replies_analyzed": 128,
+    "observed": {
+      "uci": "g6f4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "g6f4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "g6f4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "g6f4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-076",
+    "pieces": 4,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0015475000109290704,
+    "replies_analyzed": 64,
+    "observed": {
+      "uci": "f3f2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f3f2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f3f2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f3e2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-077",
+    "pieces": 4,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0016838750016177073,
+    "replies_analyzed": 73,
+    "observed": {
+      "uci": "e7f6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "e7f6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "e7f6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "e7f6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-078",
+    "pieces": 4,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0017544169968459755,
+    "replies_analyzed": 67,
+    "observed": {
+      "uci": "f3e3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f3e3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f3e3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f3e3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-079",
+    "pieces": 4,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "A",
+    "same_choice": false,
+    "seconds": 0.0034513330028858036,
+    "replies_analyzed": 138,
+    "observed": {
+      "uci": "c4c6",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "a7b6",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c4c6",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "c4c6",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-080",
+    "pieces": 4,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0019445000070845708,
+    "replies_analyzed": 73,
+    "observed": {
+      "uci": "g2f2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g2f2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g2f2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g2f2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-081",
+    "pieces": 4,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.002340124992770143,
+    "replies_analyzed": 75,
+    "observed": {
+      "uci": "h8g7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "h8g7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "h8g7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "h8g7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-082",
+    "pieces": 4,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0034382080048089847,
+    "replies_analyzed": 146,
+    "observed": {
+      "uci": "f7g6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f7g6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f7g6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f7g6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-083",
+    "pieces": 4,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0009561250044498593,
+    "replies_analyzed": 40,
+    "observed": {
+      "uci": "g5f6",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g5f6",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g5f6",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f3f4",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-084",
+    "pieces": 4,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0006880829896545038,
+    "replies_analyzed": 17,
+    "observed": {
+      "uci": "h6g6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "h6g6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "h6g6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "h6g6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-085",
+    "pieces": 4,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0011302080092718825,
+    "replies_analyzed": 35,
+    "observed": {
+      "uci": "h2g3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "h2g3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "h2g3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "h2g3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-086",
+    "pieces": 4,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0011675410059979185,
+    "replies_analyzed": 50,
+    "observed": {
+      "uci": "d2e2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "d2e2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "d2e2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "d2d1",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-087",
+    "pieces": 4,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0018229160050395876,
+    "replies_analyzed": 66,
+    "observed": {
+      "uci": "f4e4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "f4e4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "f4e4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "f4e4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-088",
+    "pieces": 4,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.002012915996601805,
+    "replies_analyzed": 54,
+    "observed": {
+      "uci": "g5f4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "g5f4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "g5h6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g5h6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-089",
+    "pieces": 4,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "A",
+    "same_choice": false,
+    "seconds": 0.0019021250045625493,
+    "replies_analyzed": 71,
+    "observed": {
+      "uci": "e7f5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "e7c8",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "e7f5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "e7f5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-090",
+    "pieces": 4,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0027598750020843,
+    "replies_analyzed": 108,
+    "observed": {
+      "uci": "b2b1q",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "b2b1q",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b2b1q",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b2b1b",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-091",
+    "pieces": 4,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0018445000023348257,
+    "replies_analyzed": 84,
+    "observed": {
+      "uci": "d6d7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "d6d7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "d6d7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "d6d7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-092",
+    "pieces": 4,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0009622920042602345,
+    "replies_analyzed": 33,
+    "observed": {
+      "uci": "a6a7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "a6a7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "a6a7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "a6a7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-093",
+    "pieces": 4,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "neutral",
+    "same_choice": false,
+    "seconds": 0.0009978750022128224,
+    "replies_analyzed": 33,
+    "observed": {
+      "uci": "h3g2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "h3g4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "h3g4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "h3g4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-094",
+    "pieces": 4,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0025870829995255917,
+    "replies_analyzed": 110,
+    "observed": {
+      "uci": "f2e4",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f2e4",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f2e4",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f2e4",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-095",
+    "pieces": 4,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0024684170057298616,
+    "replies_analyzed": 113,
+    "observed": {
+      "uci": "f6e6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "f6e6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "f6e6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "f6e5",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-096",
+    "pieces": 4,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0021572499972535297,
+    "replies_analyzed": 91,
+    "observed": {
+      "uci": "g7e5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g7e5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g7e5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g7e5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-097",
+    "pieces": 4,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.001796333002857864,
+    "replies_analyzed": 67,
+    "observed": {
+      "uci": "f6g5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f6g5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f6g5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f6g5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-098",
+    "pieces": 4,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.007460332999471575,
+    "replies_analyzed": 287,
+    "observed": {
+      "uci": "d5d3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "d5d3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "d5d3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "d5d3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-099",
+    "pieces": 4,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0031807089981157333,
+    "replies_analyzed": 144,
+    "observed": {
+      "uci": "c1d2",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c1d2",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c1d2",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "c1d2",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-100",
+    "pieces": 4,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": false,
+    "seconds": 0.0029420829960145056,
+    "replies_analyzed": 114,
+    "observed": {
+      "uci": "h1h2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "h1h5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "h1h2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "h1e1",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-101",
+    "pieces": 5,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.002317082995432429,
+    "replies_analyzed": 104,
+    "observed": {
+      "uci": "c3b2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c3b2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c3b2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "c3b2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-102",
+    "pieces": 5,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0018759590020636097,
+    "replies_analyzed": 77,
+    "observed": {
+      "uci": "h4h5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "h4h5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "h4h5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "h4h5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-103",
+    "pieces": 5,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0013001249899389222,
+    "replies_analyzed": 57,
+    "observed": {
+      "uci": "g6h5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g6h5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g6h5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g6h5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-104",
+    "pieces": 5,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.005872374997125007,
+    "replies_analyzed": 231,
+    "observed": {
+      "uci": "h1d5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "h1d5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "h1a8",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "h1a8",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-105",
+    "pieces": 5,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.013009082991629839,
+    "replies_analyzed": 546,
+    "observed": {
+      "uci": "a8f8",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "a8f8",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "a8f8",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "a8a5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-106",
+    "pieces": 5,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.002571332996012643,
+    "replies_analyzed": 86,
+    "observed": {
+      "uci": "f4e4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f4e4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f4e4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f4e4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-107",
+    "pieces": 5,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.006011959005263634,
+    "replies_analyzed": 202,
+    "observed": {
+      "uci": "g6c2",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g6c2",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g6c2",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g6c2",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-108",
+    "pieces": 5,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.004738167001050897,
+    "replies_analyzed": 184,
+    "observed": {
+      "uci": "g1f1",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g1f1",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g1g4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "g1g4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-109",
+    "pieces": 5,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": false,
+    "seconds": 0.0016976250044535846,
+    "replies_analyzed": 55,
+    "observed": {
+      "uci": "d6e5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "d6c7",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "d6e5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "d6e5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-110",
+    "pieces": 5,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.005113874998642132,
+    "replies_analyzed": 186,
+    "observed": {
+      "uci": "c3e3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c3e3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c3e3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "c3e3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-111",
+    "pieces": 5,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0030402089905692264,
+    "replies_analyzed": 128,
+    "observed": {
+      "uci": "b3b2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "b3b2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b3b2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b3a2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-112",
+    "pieces": 5,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.007450042001437396,
+    "replies_analyzed": 297,
+    "observed": {
+      "uci": "g4f4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g4f4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g4f4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g4f4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-113",
+    "pieces": 5,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0018783749983413145,
+    "replies_analyzed": 67,
+    "observed": {
+      "uci": "d7e6",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "d7e6",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "d7e6",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "d7e6",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-114",
+    "pieces": 5,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "A",
+    "same_choice": false,
+    "seconds": 0.006777500006137416,
+    "replies_analyzed": 268,
+    "observed": {
+      "uci": "d4b4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "e7e8",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "d4b4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "d4b4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-115",
+    "pieces": 5,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0039849580061854795,
+    "replies_analyzed": 123,
+    "observed": {
+      "uci": "e2f2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "e2f2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "e2f2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "e2d1",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-116",
+    "pieces": 5,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.004071750008733943,
+    "replies_analyzed": 177,
+    "observed": {
+      "uci": "f2f4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f2f4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f2f4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f2f4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-117",
+    "pieces": 5,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.006383665997418575,
+    "replies_analyzed": 279,
+    "observed": {
+      "uci": "h6a6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "h6a6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "h6a6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "h6a6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-118",
+    "pieces": 5,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0020110829937038943,
+    "replies_analyzed": 81,
+    "observed": {
+      "uci": "f4f5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f4f5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f4f5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f4f3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-119",
+    "pieces": 5,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0027891670033568516,
+    "replies_analyzed": 119,
+    "observed": {
+      "uci": "e3d2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "e3d2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "e3d2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "e3d2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-120",
+    "pieces": 5,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0027344170084688812,
+    "replies_analyzed": 133,
+    "observed": {
+      "uci": "b3d5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "b3d5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b3d5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b3d1",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-121",
+    "pieces": 5,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.010843416006537154,
+    "replies_analyzed": 400,
+    "observed": {
+      "uci": "e8e5",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "e8e5",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "e8e5",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "e8e5",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-122",
+    "pieces": 5,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0034112910070689395,
+    "replies_analyzed": 144,
+    "observed": {
+      "uci": "d2f3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "d2f3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "d2f3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "d2b1",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-123",
+    "pieces": 5,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0031901659967843443,
+    "replies_analyzed": 101,
+    "observed": {
+      "uci": "g4e5",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "g4e5",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "g4e5",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "g4e5",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-124",
+    "pieces": 5,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0031295000080717728,
+    "replies_analyzed": 144,
+    "observed": {
+      "uci": "e2c3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "e2c3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "e2c3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "e2c3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-125",
+    "pieces": 5,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0011132500076200813,
+    "replies_analyzed": 39,
+    "observed": {
+      "uci": "h6g7",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "h6g7",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "h6g5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "h6g5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-126",
+    "pieces": 5,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.00364550000813324,
+    "replies_analyzed": 134,
+    "observed": {
+      "uci": "c4d2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c4d2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c4d2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "c4d2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-127",
+    "pieces": 5,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.005619582996587269,
+    "replies_analyzed": 180,
+    "observed": {
+      "uci": "c8a6",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "c8a6",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "c8a6",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "c8a6",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-128",
+    "pieces": 5,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.006094459007726982,
+    "replies_analyzed": 240,
+    "observed": {
+      "uci": "b2g2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "b2g2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "b2g2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "b2g2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-129",
+    "pieces": 5,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0016582919924985617,
+    "replies_analyzed": 60,
+    "observed": {
+      "uci": "d6c6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "d6c6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "d6c6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "d6c6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-130",
+    "pieces": 5,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0011789589916588739,
+    "replies_analyzed": 42,
+    "observed": {
+      "uci": "a3c5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "a3c5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "h8h7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "h8h7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-131",
+    "pieces": 5,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0014845419937046245,
+    "replies_analyzed": 66,
+    "observed": {
+      "uci": "b3c3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "b3c3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b3c3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b3c3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-132",
+    "pieces": 5,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0011901669931830838,
+    "replies_analyzed": 49,
+    "observed": {
+      "uci": "c8b7",
+      "score": 0,
+      "optimal": 0,
+      "regret": 2
+    },
+    "inferred": {
+      "uci": "c8b7",
+      "score": 0,
+      "optimal": 0,
+      "regret": 2
+    },
+    "neutral": {
+      "uci": "c8b7",
+      "score": 0,
+      "optimal": 0,
+      "regret": 2
+    },
+    "min_kappa": {
+      "uci": "c8b7",
+      "score": 0,
+      "optimal": 0,
+      "regret": 2
+    }
+  },
+  {
+    "position_id": "B202504-133",
+    "pieces": 5,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0067761669924948364,
+    "replies_analyzed": 258,
+    "observed": {
+      "uci": "d3g3",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "d3g3",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "d3g3",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "d3g3",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-134",
+    "pieces": 5,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0017205830081366003,
+    "replies_analyzed": 44,
+    "observed": {
+      "uci": "a3a2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "a3a2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "a3a2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "a3a2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-135",
+    "pieces": 5,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.004909249997581355,
+    "replies_analyzed": 220,
+    "observed": {
+      "uci": "a5b7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "a5b7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "a5b7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "a5b7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-136",
+    "pieces": 5,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "B",
+    "same_choice": false,
+    "seconds": 0.006330459000309929,
+    "replies_analyzed": 249,
+    "observed": {
+      "uci": "h2h3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "h2e2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 2
+    },
+    "neutral": {
+      "uci": "h2e2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 2
+    },
+    "min_kappa": {
+      "uci": "h2e2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 2
+    }
+  },
+  {
+    "position_id": "B202504-137",
+    "pieces": 5,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0013317499979166314,
+    "replies_analyzed": 50,
+    "observed": {
+      "uci": "c1b2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "c1b2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "c1b2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "c1b1",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-138",
+    "pieces": 5,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0015846669994061813,
+    "replies_analyzed": 57,
+    "observed": {
+      "uci": "a1b2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "a1b2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "a1b2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "a1a2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-139",
+    "pieces": 5,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.005797291989438236,
+    "replies_analyzed": 248,
+    "observed": {
+      "uci": "b8b6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "b8b6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b8b6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b8b6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-140",
+    "pieces": 5,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.003679249988636002,
+    "replies_analyzed": 154,
+    "observed": {
+      "uci": "g2f3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g2f3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g2f3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f6f7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-141",
+    "pieces": 5,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "B",
+    "same_choice": false,
+    "seconds": 0.0068542499939212576,
+    "replies_analyzed": 252,
+    "observed": {
+      "uci": "g6f7",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "g6f5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g6f5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g6f5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-142",
+    "pieces": 5,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.001453749995562248,
+    "replies_analyzed": 49,
+    "observed": {
+      "uci": "a6a7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "a6a7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "a6a7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "a6a7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-143",
+    "pieces": 5,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0017256249993806705,
+    "replies_analyzed": 55,
+    "observed": {
+      "uci": "e6d5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "e6d5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "e6d5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "e6d5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-144",
+    "pieces": 5,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.009057332994416356,
+    "replies_analyzed": 348,
+    "observed": {
+      "uci": "a2g2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "a2g2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "a2g2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "a2g2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-145",
+    "pieces": 5,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.014687792005133815,
+    "replies_analyzed": 613,
+    "observed": {
+      "uci": "a4e4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "a4e4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "a4e4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "a4e4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-146",
+    "pieces": 5,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0013237910025054589,
+    "replies_analyzed": 54,
+    "observed": {
+      "uci": "a4b3",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "a4b3",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "a4b3",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "a4a3",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-147",
+    "pieces": 5,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.007769624993670732,
+    "replies_analyzed": 285,
+    "observed": {
+      "uci": "f3e4",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f3e4",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f3e4",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "a3a5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-148",
+    "pieces": 5,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.005653915999573655,
+    "replies_analyzed": 271,
+    "observed": {
+      "uci": "a2f2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "a2f2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "a2f2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "a2f2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-149",
+    "pieces": 5,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0019762500014621764,
+    "replies_analyzed": 81,
+    "observed": {
+      "uci": "c4c5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c4c5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c4c5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "c4c5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-150",
+    "pieces": 5,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0019425410137046129,
+    "replies_analyzed": 44,
+    "observed": {
+      "uci": "g4h4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g4h4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g4h4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g4h4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-151",
+    "pieces": 6,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0016662090056343004,
+    "replies_analyzed": 64,
+    "observed": {
+      "uci": "a7a8q",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "a7a8q",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b2b3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b2b3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-152",
+    "pieces": 6,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.00582479199510999,
+    "replies_analyzed": 208,
+    "observed": {
+      "uci": "c8b8",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c8b8",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c8d8",
+      "score": 0,
+      "optimal": 0,
+      "regret": 2
+    },
+    "min_kappa": {
+      "uci": "c8d8",
+      "score": 0,
+      "optimal": 0,
+      "regret": 2
+    }
+  },
+  {
+    "position_id": "B202504-153",
+    "pieces": 6,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0025208329898305237,
+    "replies_analyzed": 99,
+    "observed": {
+      "uci": "b6d5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "b6d5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b6d5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b6d5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-154",
+    "pieces": 6,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "neutral",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.005216666002525017,
+    "replies_analyzed": 180,
+    "observed": {
+      "uci": "a4a3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "a4a3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "a4a3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "a4a3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-155",
+    "pieces": 6,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0018241249927086756,
+    "replies_analyzed": 50,
+    "observed": {
+      "uci": "f2e2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f2e2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f2e2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f2e2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-156",
+    "pieces": 6,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "A",
+    "same_choice": false,
+    "seconds": 0.003339916991535574,
+    "replies_analyzed": 140,
+    "observed": {
+      "uci": "h7f6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "h7g5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "h7f6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b5b4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-157",
+    "pieces": 6,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.008181583005352877,
+    "replies_analyzed": 313,
+    "observed": {
+      "uci": "f2c2",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "f2c2",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "f2c2",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "f2c2",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-158",
+    "pieces": 6,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0038115839997772127,
+    "replies_analyzed": 153,
+    "observed": {
+      "uci": "a3c1",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "a3c1",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "a3c1",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "a3c1",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-159",
+    "pieces": 6,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0029319580062292516,
+    "replies_analyzed": 79,
+    "observed": {
+      "uci": "g3f3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g3f3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g3f3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g3f3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-160",
+    "pieces": 6,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0017046249995473772,
+    "replies_analyzed": 68,
+    "observed": {
+      "uci": "c3c4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c3c4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c3c4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "c3b4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-161",
+    "pieces": 6,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.006850917008705437,
+    "replies_analyzed": 241,
+    "observed": {
+      "uci": "c8f8",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "c8f8",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "c8f8",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "c8f8",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-162",
+    "pieces": 6,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.004470291009056382,
+    "replies_analyzed": 197,
+    "observed": {
+      "uci": "g1b1",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g1b1",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g1b1",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g1b1",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-163",
+    "pieces": 6,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.003948582991142757,
+    "replies_analyzed": 170,
+    "observed": {
+      "uci": "g2e3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g2e3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g2e3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g2e3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-164",
+    "pieces": 6,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0032098330120788887,
+    "replies_analyzed": 79,
+    "observed": {
+      "uci": "h5g6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "h5g6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "h5g6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "h5h4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-165",
+    "pieces": 6,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0019299170089652762,
+    "replies_analyzed": 35,
+    "observed": {
+      "uci": "f1e1",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f1e1",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f1e1",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f1e1",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-166",
+    "pieces": 6,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.010780791999422945,
+    "replies_analyzed": 387,
+    "observed": {
+      "uci": "c1h6",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c1h6",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c1h6",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "c1h6",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-167",
+    "pieces": 6,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0036854159989161417,
+    "replies_analyzed": 155,
+    "observed": {
+      "uci": "a3c5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "a3c5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "a3c5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "a3c5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-168",
+    "pieces": 6,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0061667090049013495,
+    "replies_analyzed": 262,
+    "observed": {
+      "uci": "c8c6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c8c6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c8c6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "c8c6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-169",
+    "pieces": 6,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0067083749891025946,
+    "replies_analyzed": 288,
+    "observed": {
+      "uci": "g7e7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g7e7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g7e7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g7e7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-170",
+    "pieces": 6,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0035839170013787225,
+    "replies_analyzed": 164,
+    "observed": {
+      "uci": "h3e6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "h3e6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "h3e6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "h3e6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-171",
+    "pieces": 6,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "neutral",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.010505707992706448,
+    "replies_analyzed": 407,
+    "observed": {
+      "uci": "b8f4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "b8f4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "b8f4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "b8e5",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-172",
+    "pieces": 6,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.012030208003125153,
+    "replies_analyzed": 430,
+    "observed": {
+      "uci": "f2e3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f2e3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f2e3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f2a2",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-173",
+    "pieces": 6,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.004766416008351371,
+    "replies_analyzed": 186,
+    "observed": {
+      "uci": "b3e6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "b3e6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b3e6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b3e6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-174",
+    "pieces": 6,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.004721750010503456,
+    "replies_analyzed": 212,
+    "observed": {
+      "uci": "b7a7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "b7a7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b7a7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b7a7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-175",
+    "pieces": 6,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0021271250006975606,
+    "replies_analyzed": 80,
+    "observed": {
+      "uci": "c1b3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c1b3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c1e2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "c1e2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-176",
+    "pieces": 6,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.004992750007659197,
+    "replies_analyzed": 246,
+    "observed": {
+      "uci": "d3c5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "d3c5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "d3c5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "d3c5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-177",
+    "pieces": 6,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.00967050000326708,
+    "replies_analyzed": 362,
+    "observed": {
+      "uci": "g4h4",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g4h4",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g4h4",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g4h4",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-178",
+    "pieces": 6,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.012008833000436425,
+    "replies_analyzed": 494,
+    "observed": {
+      "uci": "d6c6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "d6c6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "d6c6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "d6c6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-179",
+    "pieces": 6,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.004434957998455502,
+    "replies_analyzed": 196,
+    "observed": {
+      "uci": "f6d7",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f6d7",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f6d7",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f6d7",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-180",
+    "pieces": 6,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0020050839957548305,
+    "replies_analyzed": 76,
+    "observed": {
+      "uci": "f5g5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f5g5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f5g5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f5g5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-181",
+    "pieces": 6,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.003686083000502549,
+    "replies_analyzed": 133,
+    "observed": {
+      "uci": "g7f8",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g7f8",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g7f8",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g7f8",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-182",
+    "pieces": 6,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.006571125006303191,
+    "replies_analyzed": 256,
+    "observed": {
+      "uci": "d3d5",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "d3d5",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "d3d5",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "d3d5",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-183",
+    "pieces": 6,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0028109999984735623,
+    "replies_analyzed": 76,
+    "observed": {
+      "uci": "h5h4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "h5h4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "h5h4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "h5h4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-184",
+    "pieces": 6,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.004120792000321671,
+    "replies_analyzed": 113,
+    "observed": {
+      "uci": "g7g5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g7g5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g7g5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g7g5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-185",
+    "pieces": 6,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.006041250002454035,
+    "replies_analyzed": 242,
+    "observed": {
+      "uci": "d4h4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "d4h4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "d4h4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "d4h4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-186",
+    "pieces": 6,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0020604159944923595,
+    "replies_analyzed": 72,
+    "observed": {
+      "uci": "c7c8q",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c7c8q",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c7c8q",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "c7c8b",
+      "score": 0,
+      "optimal": 0,
+      "regret": 2
+    }
+  },
+  {
+    "position_id": "B202504-187",
+    "pieces": 6,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.004148915992118418,
+    "replies_analyzed": 116,
+    "observed": {
+      "uci": "f4e5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f4e5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f4e5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f4e5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-188",
+    "pieces": 6,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.014780875004362315,
+    "replies_analyzed": 553,
+    "observed": {
+      "uci": "e5b2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 2
+    },
+    "inferred": {
+      "uci": "e5b2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 2
+    },
+    "neutral": {
+      "uci": "e5b2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 2
+    },
+    "min_kappa": {
+      "uci": "e5b2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 2
+    }
+  },
+  {
+    "position_id": "B202504-189",
+    "pieces": 6,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0019143750105286017,
+    "replies_analyzed": 78,
+    "observed": {
+      "uci": "e2e3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "e2e3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "e2e3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "e2e3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-190",
+    "pieces": 6,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.008907292009098455,
+    "replies_analyzed": 368,
+    "observed": {
+      "uci": "g5h7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g5h7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g5h7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g5h7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-191",
+    "pieces": 6,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "A",
+    "same_choice": false,
+    "seconds": 0.0017617499979678541,
+    "replies_analyzed": 66,
+    "observed": {
+      "uci": "f3e3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f3g2",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f3e3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f3e3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-192",
+    "pieces": 6,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "neutral",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.009844917003647424,
+    "replies_analyzed": 370,
+    "observed": {
+      "uci": "d3e2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "d3e2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "d3e2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "d3c2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-193",
+    "pieces": 6,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0006814579974161461,
+    "replies_analyzed": 15,
+    "observed": {
+      "uci": "b6b7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "b6b7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b6b7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b6b7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-194",
+    "pieces": 6,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "neutral",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.008428999994066544,
+    "replies_analyzed": 302,
+    "observed": {
+      "uci": "b6b2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "b6b2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b6b2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b6b2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-195",
+    "pieces": 6,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.001409333010087721,
+    "replies_analyzed": 44,
+    "observed": {
+      "uci": "f6f7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f6f7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f6f7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f6f5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-196",
+    "pieces": 6,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "neutral",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0090490000002319,
+    "replies_analyzed": 329,
+    "observed": {
+      "uci": "f1e1",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f1e1",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f1e1",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f1e1",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-197",
+    "pieces": 6,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.013272583004436456,
+    "replies_analyzed": 483,
+    "observed": {
+      "uci": "e4b4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 2
+    },
+    "inferred": {
+      "uci": "e4b4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 2
+    },
+    "neutral": {
+      "uci": "e4b4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 2
+    },
+    "min_kappa": {
+      "uci": "d5c7",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-198",
+    "pieces": 6,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.004220084010739811,
+    "replies_analyzed": 159,
+    "observed": {
+      "uci": "h3g2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "h3g2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "h3g2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "h3g2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-199",
+    "pieces": 6,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0032984159915940836,
+    "replies_analyzed": 147,
+    "observed": {
+      "uci": "b7e4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "b7e4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b7e4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b7e4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-200",
+    "pieces": 6,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0019038330065086484,
+    "replies_analyzed": 77,
+    "observed": {
+      "uci": "b7a7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "b7a7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b7a7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b7a6",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-201",
+    "pieces": 7,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.009768042000359856,
+    "replies_analyzed": 382,
+    "observed": {
+      "uci": "a2g2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "a2g2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "a2g2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "a2g2",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-202",
+    "pieces": 7,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0018518339929869398,
+    "replies_analyzed": 47,
+    "observed": {
+      "uci": "g4g3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g4g3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g4g3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g4g3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-203",
+    "pieces": 7,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.02157833300589118,
+    "replies_analyzed": 854,
+    "observed": {
+      "uci": "d2g5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "d2g5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "d2g5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "d2f4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-204",
+    "pieces": 7,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0033607079967623577,
+    "replies_analyzed": 119,
+    "observed": {
+      "uci": "c8c7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c8c7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c8c7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "c8c7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-205",
+    "pieces": 7,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.00872450000315439,
+    "replies_analyzed": 339,
+    "observed": {
+      "uci": "b5e5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "b5e5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b5e5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b5e5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-206",
+    "pieces": 7,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "neutral",
+    "same_choice": false,
+    "seconds": 0.008718040990061127,
+    "replies_analyzed": 362,
+    "observed": {
+      "uci": "d4a7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "d4b2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "d4b2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "d4b2",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-207",
+    "pieces": 7,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.006551750004291534,
+    "replies_analyzed": 293,
+    "observed": {
+      "uci": "h6h7",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "h6h7",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "h6h7",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "h6h7",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-208",
+    "pieces": 7,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.002098583005135879,
+    "replies_analyzed": 45,
+    "observed": {
+      "uci": "g2h2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g2h2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g2h2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g2h2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-209",
+    "pieces": 7,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0008555419917684048,
+    "replies_analyzed": 24,
+    "observed": {
+      "uci": "e7d7",
+      "score": 0,
+      "optimal": 0,
+      "regret": 2
+    },
+    "inferred": {
+      "uci": "e7d7",
+      "score": 0,
+      "optimal": 0,
+      "regret": 2
+    },
+    "neutral": {
+      "uci": "e7d7",
+      "score": 0,
+      "optimal": 0,
+      "regret": 2
+    },
+    "min_kappa": {
+      "uci": "e7d6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 2
+    }
+  },
+  {
+    "position_id": "B202504-210",
+    "pieces": 7,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0022376249980879948,
+    "replies_analyzed": 76,
+    "observed": {
+      "uci": "b4d6",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "b4d6",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b4d6",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b4d2",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-211",
+    "pieces": 7,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0036417920055100694,
+    "replies_analyzed": 124,
+    "observed": {
+      "uci": "d6f4",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "d6f4",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "d6f4",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "d6b4",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-212",
+    "pieces": 7,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.003541458005202003,
+    "replies_analyzed": 104,
+    "observed": {
+      "uci": "f6g7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f6g7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f6g7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f6g7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-213",
+    "pieces": 7,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.005766250003944151,
+    "replies_analyzed": 229,
+    "observed": {
+      "uci": "c6f6",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c6f6",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c6f6",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "c6f6",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-214",
+    "pieces": 7,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.008114666998153552,
+    "replies_analyzed": 282,
+    "observed": {
+      "uci": "c5c6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c5c6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c5c6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "c5c6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-215",
+    "pieces": 7,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.007607958003063686,
+    "replies_analyzed": 296,
+    "observed": {
+      "uci": "g2d2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g2d2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g2d2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g2d2",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-216",
+    "pieces": 7,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.003488792004645802,
+    "replies_analyzed": 145,
+    "observed": {
+      "uci": "e2e1r",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "e2e1r",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "e2e1r",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "e2e1q",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-217",
+    "pieces": 7,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.00306158400780987,
+    "replies_analyzed": 110,
+    "observed": {
+      "uci": "d2f1",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "d2f1",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f5f6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f5f6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-218",
+    "pieces": 7,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.006345292000332847,
+    "replies_analyzed": 236,
+    "observed": {
+      "uci": "e7e8",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "e7e8",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "e7e8",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "e7e8",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-219",
+    "pieces": 7,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0037628339923685417,
+    "replies_analyzed": 124,
+    "observed": {
+      "uci": "c4c5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c4c5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c4c5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "c4c5",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-220",
+    "pieces": 7,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0011020410020137206,
+    "replies_analyzed": 40,
+    "observed": {
+      "uci": "f5g4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f5g4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f5g4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f5g4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-221",
+    "pieces": 7,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.005750625001383014,
+    "replies_analyzed": 233,
+    "observed": {
+      "uci": "c8g8",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "c8g8",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "c8g8",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "c8g8",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-222",
+    "pieces": 7,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": false,
+    "seconds": 0.0064915830007521436,
+    "replies_analyzed": 242,
+    "observed": {
+      "uci": "g4g3",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "f6g6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "g4g3",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "g4f4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-223",
+    "pieces": 7,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0036490420025074854,
+    "replies_analyzed": 151,
+    "observed": {
+      "uci": "h7f8",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "h7f8",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "h7f8",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "h7f6",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-224",
+    "pieces": 7,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": false,
+    "seconds": 0.004334041004767641,
+    "replies_analyzed": 157,
+    "observed": {
+      "uci": "h6h7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "h6a6",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "h6h7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "h6h7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-225",
+    "pieces": 7,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.00486570899374783,
+    "replies_analyzed": 123,
+    "observed": {
+      "uci": "d5c5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "d5c5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "d5c5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b7c6",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-226",
+    "pieces": 7,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.003851417000987567,
+    "replies_analyzed": 172,
+    "observed": {
+      "uci": "g7f7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g7f7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g7f7",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g7f6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-227",
+    "pieces": 7,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "neutral",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0071444579953094944,
+    "replies_analyzed": 247,
+    "observed": {
+      "uci": "b4f4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "b4f4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "b4f4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "b4f4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-228",
+    "pieces": 7,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "A",
+    "same_choice": false,
+    "seconds": 0.008144749997882172,
+    "replies_analyzed": 330,
+    "observed": {
+      "uci": "a7a4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "a7e7",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "a7a4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "a7a4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-229",
+    "pieces": 7,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.004691583002568223,
+    "replies_analyzed": 94,
+    "observed": {
+      "uci": "g4h3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g4h3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g4h3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g4h3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-230",
+    "pieces": 7,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.002548415999626741,
+    "replies_analyzed": 78,
+    "observed": {
+      "uci": "b6b7",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "b6b7",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "b6a5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b6a5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-231",
+    "pieces": 7,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.008477625000523403,
+    "replies_analyzed": 386,
+    "observed": {
+      "uci": "g3g6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "g3g6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "g3g6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "g3g6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-232",
+    "pieces": 7,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0164645000040764,
+    "replies_analyzed": 661,
+    "observed": {
+      "uci": "h1b1",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "h1b1",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "h1b1",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "h1b1",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-233",
+    "pieces": 7,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.0042924169974867254,
+    "replies_analyzed": 166,
+    "observed": {
+      "uci": "g6h6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g6h6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g6h6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g6h6",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-234",
+    "pieces": 7,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0040939590107882395,
+    "replies_analyzed": 181,
+    "observed": {
+      "uci": "f5f4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f5f4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f5f4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f5f4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-235",
+    "pieces": 7,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.011265875000390224,
+    "replies_analyzed": 463,
+    "observed": {
+      "uci": "c6c3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c6c3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c6c3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "c6c3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-236",
+    "pieces": 7,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.009050624998053536,
+    "replies_analyzed": 383,
+    "observed": {
+      "uci": "f2f3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f2f3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f2f3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f2f3",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-237",
+    "pieces": 7,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.019394875009311363,
+    "replies_analyzed": 705,
+    "observed": {
+      "uci": "a2g8",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "a2g8",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "a2g8",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "a2f7",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-238",
+    "pieces": 7,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.0031892909901216626,
+    "replies_analyzed": 145,
+    "observed": {
+      "uci": "g5e6",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "g5e6",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "g5e6",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "g5e4",
+      "score": 1,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-239",
+    "pieces": 7,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "neutral",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0039025829901220277,
+    "replies_analyzed": 143,
+    "observed": {
+      "uci": "c6c4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c6c4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c6c4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "c6c4",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-240",
+    "pieces": 7,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0029720419988734648,
+    "replies_analyzed": 104,
+    "observed": {
+      "uci": "h6f6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "h6f6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "h6f6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "h6f6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-241",
+    "pieces": 7,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.0032538340019527823,
+    "replies_analyzed": 105,
+    "observed": {
+      "uci": "f3f4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "f3f4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "f3f4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "f3e4",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-242",
+    "pieces": 7,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.010016250002081506,
+    "replies_analyzed": 383,
+    "observed": {
+      "uci": "b5g5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "b5g5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "b5g5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "b5g5",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-243",
+    "pieces": 7,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.004436041999724694,
+    "replies_analyzed": 102,
+    "observed": {
+      "uci": "c8d7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c8d7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c8d7",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "a7a5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-244",
+    "pieces": 7,
+    "root_category": "win",
+    "best_score": 2,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.004125457999180071,
+    "replies_analyzed": 148,
+    "observed": {
+      "uci": "g7e5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g7e5",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c3c4",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "c3c4",
+      "score": 2,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-245",
+    "pieces": 7,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.003934459004085511,
+    "replies_analyzed": 130,
+    "observed": {
+      "uci": "d4f4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "d4f4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "d4f4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "d4f4",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-246",
+    "pieces": 7,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.006717417010804638,
+    "replies_analyzed": 286,
+    "observed": {
+      "uci": "g5g3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "g5g3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "g5g3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "g5g3",
+      "score": 1,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-247",
+    "pieces": 7,
+    "root_category": "draw",
+    "best_score": 1,
+    "informative": true,
+    "observed_class": "B",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.006696334006846882,
+    "replies_analyzed": 258,
+    "observed": {
+      "uci": "b3b6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "inferred": {
+      "uci": "b3b6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "neutral": {
+      "uci": "b3b6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    },
+    "min_kappa": {
+      "uci": "b3b6",
+      "score": 0,
+      "optimal": 0,
+      "regret": 1
+    }
+  },
+  {
+    "position_id": "B202504-248",
+    "pieces": 7,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "neutral",
+    "same_choice": true,
+    "seconds": 0.007634333000169136,
+    "replies_analyzed": 334,
+    "observed": {
+      "uci": "a4c6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "a4c6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "a4c6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "a4c6",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-249",
+    "pieces": 7,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "A",
+    "inferred_class": "A",
+    "same_choice": true,
+    "seconds": 0.004361500003142282,
+    "replies_analyzed": 186,
+    "observed": {
+      "uci": "c2c3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "c2c3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "c2c3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "c2c3",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  },
+  {
+    "position_id": "B202504-250",
+    "pieces": 7,
+    "root_category": "loss",
+    "best_score": 0,
+    "informative": false,
+    "observed_class": "B",
+    "inferred_class": "B",
+    "same_choice": true,
+    "seconds": 0.011833291995571926,
+    "replies_analyzed": 494,
+    "observed": {
+      "uci": "a8c8",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "inferred": {
+      "uci": "a8c8",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "neutral": {
+      "uci": "a8c8",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    },
+    "min_kappa": {
+      "uci": "a8c8",
+      "score": 0,
+      "optimal": 1,
+      "regret": 0
+    }
+  }
+]

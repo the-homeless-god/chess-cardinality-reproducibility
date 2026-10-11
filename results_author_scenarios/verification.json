@@ -1,0 +1,294 @@
+{
+  "library": "python-chess 1.11.2",
+  "rows": [
+    {
+      "line": "initial",
+      "uci": [],
+      "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "actual_turn": "white",
+      "actual_legal_moves": 20,
+      "white_potential": {
+        "count": 20,
+        "by_piece": {
+          "n": 4,
+          "p": 16
+        },
+        "counterfactual_turn_change": false
+      },
+      "black_potential": {
+        "count": 20,
+        "by_piece": {
+          "n": 4,
+          "p": 16
+        },
+        "counterfactual_turn_change": true
+      },
+      "black_castling_rights": true
+    },
+    {
+      "line": "Nf3",
+      "uci": [
+        "g1f3"
+      ],
+      "fen": "rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1",
+      "actual_turn": "black",
+      "actual_legal_moves": 20,
+      "white_potential": {
+        "count": 22,
+        "by_piece": {
+          "n": 7,
+          "p": 14,
+          "r": 1
+        },
+        "counterfactual_turn_change": true
+      },
+      "black_potential": {
+        "count": 20,
+        "by_piece": {
+          "n": 4,
+          "p": 16
+        },
+        "counterfactual_turn_change": false
+      },
+      "black_castling_rights": true
+    },
+    {
+      "line": "Nc3",
+      "uci": [
+        "b1c3"
+      ],
+      "fen": "rnbqkbnr/pppppppp/8/8/8/2N5/PPPPPPPP/R1BQKBNR b KQkq - 1 1",
+      "actual_turn": "black",
+      "actual_legal_moves": 20,
+      "white_potential": {
+        "count": 22,
+        "by_piece": {
+          "n": 7,
+          "p": 14,
+          "r": 1
+        },
+        "counterfactual_turn_change": true
+      },
+      "black_potential": {
+        "count": 20,
+        "by_piece": {
+          "n": 4,
+          "p": 16
+        },
+        "counterfactual_turn_change": false
+      },
+      "black_castling_rights": true
+    },
+    {
+      "line": "e4",
+      "uci": [
+        "e2e4"
+      ],
+      "fen": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1",
+      "actual_turn": "black",
+      "actual_legal_moves": 20,
+      "white_potential": {
+        "count": 30,
+        "by_piece": {
+          "b": 5,
+          "k": 1,
+          "n": 5,
+          "p": 15,
+          "q": 4
+        },
+        "counterfactual_turn_change": true
+      },
+      "black_potential": {
+        "count": 20,
+        "by_piece": {
+          "n": 4,
+          "p": 16
+        },
+        "counterfactual_turn_change": false
+      },
+      "black_castling_rights": true
+    },
+    {
+      "line": "Nf3 Nf6",
+      "uci": [
+        "g1f3",
+        "g8f6"
+      ],
+      "fen": "rnbqkb1r/pppppppp/5n2/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 2 2",
+      "actual_turn": "white",
+      "actual_legal_moves": 22,
+      "white_potential": {
+        "count": 22,
+        "by_piece": {
+          "n": 7,
+          "p": 14,
+          "r": 1
+        },
+        "counterfactual_turn_change": false
+      },
+      "black_potential": {
+        "count": 22,
+        "by_piece": {
+          "n": 7,
+          "p": 14,
+          "r": 1
+        },
+        "counterfactual_turn_change": true
+      },
+      "black_castling_rights": true
+    },
+    {
+      "line": "Nf3 Nf6 Ne5",
+      "uci": [
+        "g1f3",
+        "g8f6",
+        "f3e5"
+      ],
+      "fen": "rnbqkb1r/pppppppp/5n2/4N3/8/8/PPPPPPPP/RNBQKB1R b KQkq - 3 2",
+      "actual_turn": "black",
+      "actual_legal_moves": 21,
+      "white_potential": {
+        "count": 27,
+        "by_piece": {
+          "n": 10,
+          "p": 16,
+          "r": 1
+        },
+        "counterfactual_turn_change": true
+      },
+      "black_potential": {
+        "count": 21,
+        "by_piece": {
+          "n": 7,
+          "p": 13,
+          "r": 1
+        },
+        "counterfactual_turn_change": false
+      },
+      "black_castling_rights": true
+    },
+    {
+      "line": "Nf3 Nf6 Ne5 d6",
+      "uci": [
+        "g1f3",
+        "g8f6",
+        "f3e5",
+        "d7d6"
+      ],
+      "fen": "rnbqkb1r/ppp1pppp/3p1n2/4N3/8/8/PPPPPPPP/RNBQKB1R w KQkq - 0 3",
+      "actual_turn": "white",
+      "actual_legal_moves": 27,
+      "white_potential": {
+        "count": 27,
+        "by_piece": {
+          "n": 10,
+          "p": 16,
+          "r": 1
+        },
+        "counterfactual_turn_change": false
+      },
+      "black_potential": {
+        "count": 29,
+        "by_piece": {
+          "b": 5,
+          "n": 9,
+          "p": 13,
+          "q": 1,
+          "r": 1
+        },
+        "counterfactual_turn_change": true
+      },
+      "black_castling_rights": true
+    },
+    {
+      "line": "Nf3 Nf6 Ne5 d6 Nc4",
+      "uci": [
+        "g1f3",
+        "g8f6",
+        "f3e5",
+        "d7d6",
+        "e5c4"
+      ],
+      "fen": "rnbqkb1r/ppp1pppp/3p1n2/8/2N5/8/PPPPPPPP/RNBQKB1R b KQkq - 1 3",
+      "actual_turn": "black",
+      "actual_legal_moves": 30,
+      "white_potential": {
+        "count": 24,
+        "by_piece": {
+          "n": 8,
+          "p": 15,
+          "r": 1
+        },
+        "counterfactual_turn_change": true
+      },
+      "black_potential": {
+        "count": 30,
+        "by_piece": {
+          "b": 5,
+          "k": 1,
+          "n": 9,
+          "p": 13,
+          "q": 1,
+          "r": 1
+        },
+        "counterfactual_turn_change": false
+      },
+      "black_castling_rights": true
+    },
+    {
+      "line": "Nf3 Nf6 Ne5 d6 Nxf7",
+      "uci": [
+        "g1f3",
+        "g8f6",
+        "f3e5",
+        "d7d6",
+        "e5f7"
+      ],
+      "fen": "rnbqkb1r/ppp1pNpp/3p1n2/8/8/8/PPPPPPPP/RNBQKB1R b KQkq - 0 3",
+      "actual_turn": "black",
+      "actual_legal_moves": 31,
+      "white_potential": {
+        "count": 25,
+        "by_piece": {
+          "n": 8,
+          "p": 16,
+          "r": 1
+        },
+        "counterfactual_turn_change": true
+      },
+      "black_potential": {
+        "count": 31,
+        "by_piece": {
+          "b": 5,
+          "k": 2,
+          "n": 9,
+          "p": 13,
+          "q": 1,
+          "r": 1
+        },
+        "counterfactual_turn_change": false
+      },
+      "black_castling_rights": true,
+      "Kxf7_legal": true,
+      "black_castling_rights_after_Kxf7": false
+    }
+  ],
+  "scenario_a_counterexample": {
+    "position_id": "B202503-144",
+    "fen": "8/1K6/7k/2B2p2/7P/8/8/8 w - - 0 55",
+    "root_category_for_white": "win",
+    "black_potential_before_white_move": 5,
+    "moves": {
+      "c5f8": {
+        "san": "Bf8+",
+        "opponent_legal_moves": 3,
+        "api_category_for_next_player": "draw"
+      },
+      "b7b6": {
+        "san": "Kb6",
+        "opponent_legal_moves": 5,
+        "api_category_for_next_player": "loss"
+      }
+    }
+  }
+}

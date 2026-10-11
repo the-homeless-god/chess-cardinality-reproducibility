@@ -1,0 +1,362 @@
+[
+  {
+    "seed": 100,
+    "mode": "GA2",
+    "prepare_seconds": 7.59884591700029,
+    "fit_seconds": 0.5548198750002484,
+    "total_seconds": 8.154008875000727,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.78
+  },
+  {
+    "seed": 100,
+    "mode": "GA1+GA2",
+    "prepare_seconds": 7.484679375000269,
+    "fit_seconds": 0.5562822089996189,
+    "total_seconds": 8.041290999997727,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.78
+  },
+  {
+    "seed": 100,
+    "mode": "GA0+GA1+GA2",
+    "prepare_seconds": 7.470050167001318,
+    "fit_seconds": 0.5655249999981606,
+    "total_seconds": 8.035898499998439,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.78
+  },
+  {
+    "seed": 100,
+    "mode": "GA2_early_stop",
+    "prepare_seconds": 7.747190124999179,
+    "fit_seconds": 0.10045179200096754,
+    "total_seconds": 7.847961374998704,
+    "fitness_evaluations": 108,
+    "test_accuracy": 0.78
+  },
+  {
+    "seed": 101,
+    "mode": "GA1+GA2",
+    "prepare_seconds": 7.299838791001093,
+    "fit_seconds": 0.5886735000021872,
+    "total_seconds": 7.888831375003065,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.8
+  },
+  {
+    "seed": 101,
+    "mode": "GA0+GA1+GA2",
+    "prepare_seconds": 7.220212000000174,
+    "fit_seconds": 0.3674524999987625,
+    "total_seconds": 7.587977499999397,
+    "fitness_evaluations": 396,
+    "test_accuracy": 0.8
+  },
+  {
+    "seed": 101,
+    "mode": "GA2_early_stop",
+    "prepare_seconds": 8.051594959000795,
+    "fit_seconds": 0.3338810409986763,
+    "total_seconds": 8.385820584000612,
+    "fitness_evaluations": 132,
+    "test_accuracy": 0.76
+  },
+  {
+    "seed": 101,
+    "mode": "GA2",
+    "prepare_seconds": 8.916806958000961,
+    "fit_seconds": 0.7538662090009893,
+    "total_seconds": 9.67101383300178,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.8
+  },
+  {
+    "seed": 102,
+    "mode": "GA0+GA1+GA2",
+    "prepare_seconds": 8.552339500001835,
+    "fit_seconds": 0.3623669590015197,
+    "total_seconds": 8.915040917003353,
+    "fitness_evaluations": 396,
+    "test_accuracy": 0.8
+  },
+  {
+    "seed": 102,
+    "mode": "GA2_early_stop",
+    "prepare_seconds": 7.78075833299954,
+    "fit_seconds": 0.04781116699814447,
+    "total_seconds": 7.828916791997472,
+    "fitness_evaluations": 48,
+    "test_accuracy": 0.8
+  },
+  {
+    "seed": 102,
+    "mode": "GA2",
+    "prepare_seconds": 10.294931666998309,
+    "fit_seconds": 0.5724687080000876,
+    "total_seconds": 10.867765916998906,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.8
+  },
+  {
+    "seed": 102,
+    "mode": "GA1+GA2",
+    "prepare_seconds": 12.842176082998776,
+    "fit_seconds": 0.9614449580003566,
+    "total_seconds": 13.803967749998264,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.8
+  },
+  {
+    "seed": 103,
+    "mode": "GA2_early_stop",
+    "prepare_seconds": 10.984112958001788,
+    "fit_seconds": 0.5669575419997273,
+    "total_seconds": 11.551415875001112,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.82
+  },
+  {
+    "seed": 103,
+    "mode": "GA2",
+    "prepare_seconds": 7.770100792000449,
+    "fit_seconds": 0.6325392910002847,
+    "total_seconds": 8.4029758329998,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.82
+  },
+  {
+    "seed": 103,
+    "mode": "GA1+GA2",
+    "prepare_seconds": 8.388232207998954,
+    "fit_seconds": 0.591966500000126,
+    "total_seconds": 8.980543749999924,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.8
+  },
+  {
+    "seed": 103,
+    "mode": "GA0+GA1+GA2",
+    "prepare_seconds": 7.532771834001323,
+    "fit_seconds": 0.37268808299995726,
+    "total_seconds": 7.905797334002273,
+    "fitness_evaluations": 396,
+    "test_accuracy": 0.8
+  },
+  {
+    "seed": 104,
+    "mode": "GA2",
+    "prepare_seconds": 8.235893875000329,
+    "fit_seconds": 0.5756944999993721,
+    "total_seconds": 8.811935292000271,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.82
+  },
+  {
+    "seed": 104,
+    "mode": "GA1+GA2",
+    "prepare_seconds": 7.627889750001486,
+    "fit_seconds": 0.5699142919984297,
+    "total_seconds": 8.19812104200173,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.8
+  },
+  {
+    "seed": 104,
+    "mode": "GA0+GA1+GA2",
+    "prepare_seconds": 7.315315250001731,
+    "fit_seconds": 0.38109258400072576,
+    "total_seconds": 7.696735749999789,
+    "fitness_evaluations": 396,
+    "test_accuracy": 0.8
+  },
+  {
+    "seed": 104,
+    "mode": "GA2_early_stop",
+    "prepare_seconds": 7.2790728330001,
+    "fit_seconds": 0.0466569169984723,
+    "total_seconds": 7.326054082997871,
+    "fitness_evaluations": 48,
+    "test_accuracy": 0.76
+  },
+  {
+    "seed": 105,
+    "mode": "GA1+GA2",
+    "prepare_seconds": 7.500407332998293,
+    "fit_seconds": 0.6393418340012431,
+    "total_seconds": 8.140106332997675,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.8
+  },
+  {
+    "seed": 105,
+    "mode": "GA0+GA1+GA2",
+    "prepare_seconds": 7.89577724999981,
+    "fit_seconds": 0.4806604170007631,
+    "total_seconds": 8.376777417000994,
+    "fitness_evaluations": 396,
+    "test_accuracy": 0.8
+  },
+  {
+    "seed": 105,
+    "mode": "GA2_early_stop",
+    "prepare_seconds": 7.851635874998465,
+    "fit_seconds": 0.5906087090006622,
+    "total_seconds": 8.442568916998425,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.78
+  },
+  {
+    "seed": 105,
+    "mode": "GA2",
+    "prepare_seconds": 8.327209999999468,
+    "fit_seconds": 0.5756162090001453,
+    "total_seconds": 8.903174084000057,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.78
+  },
+  {
+    "seed": 106,
+    "mode": "GA0+GA1+GA2",
+    "prepare_seconds": 7.6521033749995695,
+    "fit_seconds": 0.3820255830032693,
+    "total_seconds": 8.034444458000507,
+    "fitness_evaluations": 396,
+    "test_accuracy": 0.82
+  },
+  {
+    "seed": 106,
+    "mode": "GA2_early_stop",
+    "prepare_seconds": 7.894633084000816,
+    "fit_seconds": 0.07575762499982375,
+    "total_seconds": 7.970739874999708,
+    "fitness_evaluations": 72,
+    "test_accuracy": 0.78
+  },
+  {
+    "seed": 106,
+    "mode": "GA2",
+    "prepare_seconds": 7.589957208001579,
+    "fit_seconds": 0.5798723749976489,
+    "total_seconds": 8.17017016599857,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.78
+  },
+  {
+    "seed": 106,
+    "mode": "GA1+GA2",
+    "prepare_seconds": 7.805529459001264,
+    "fit_seconds": 0.5669510410007206,
+    "total_seconds": 8.372816999999486,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.82
+  },
+  {
+    "seed": 107,
+    "mode": "GA2_early_stop",
+    "prepare_seconds": 8.122159708000254,
+    "fit_seconds": 0.06090266699902713,
+    "total_seconds": 8.183416749998287,
+    "fitness_evaluations": 60,
+    "test_accuracy": 0.78
+  },
+  {
+    "seed": 107,
+    "mode": "GA2",
+    "prepare_seconds": 8.745830416999524,
+    "fit_seconds": 0.5632489580020774,
+    "total_seconds": 9.309405667001556,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.8
+  },
+  {
+    "seed": 107,
+    "mode": "GA1+GA2",
+    "prepare_seconds": 8.590676540999993,
+    "fit_seconds": 1.0768355840009463,
+    "total_seconds": 9.668383625001297,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.82
+  },
+  {
+    "seed": 107,
+    "mode": "GA0+GA1+GA2",
+    "prepare_seconds": 10.739076582998678,
+    "fit_seconds": 0.600692459000129,
+    "total_seconds": 11.340219166999304,
+    "fitness_evaluations": 396,
+    "test_accuracy": 0.82
+  },
+  {
+    "seed": 108,
+    "mode": "GA2",
+    "prepare_seconds": 11.393384999999398,
+    "fit_seconds": 0.8796811249994789,
+    "total_seconds": 12.273414833998686,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.84
+  },
+  {
+    "seed": 108,
+    "mode": "GA1+GA2",
+    "prepare_seconds": 11.693445458000497,
+    "fit_seconds": 0.9859482079991722,
+    "total_seconds": 12.679739625000366,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.82
+  },
+  {
+    "seed": 108,
+    "mode": "GA0+GA1+GA2",
+    "prepare_seconds": 11.987594042002456,
+    "fit_seconds": 0.7169993749994319,
+    "total_seconds": 12.704933042001358,
+    "fitness_evaluations": 396,
+    "test_accuracy": 0.82
+  },
+  {
+    "seed": 108,
+    "mode": "GA2_early_stop",
+    "prepare_seconds": 15.002828417000273,
+    "fit_seconds": 1.9250327079971612,
+    "total_seconds": 16.929186083998502,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.84
+  },
+  {
+    "seed": 109,
+    "mode": "GA1+GA2",
+    "prepare_seconds": 8.364628541999991,
+    "fit_seconds": 0.6633086670008197,
+    "total_seconds": 9.028263125001104,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.82
+  },
+  {
+    "seed": 109,
+    "mode": "GA0+GA1+GA2",
+    "prepare_seconds": 9.18181016699964,
+    "fit_seconds": 0.3867551250004908,
+    "total_seconds": 9.56889216700074,
+    "fitness_evaluations": 396,
+    "test_accuracy": 0.82
+  },
+  {
+    "seed": 109,
+    "mode": "GA2_early_stop",
+    "prepare_seconds": 10.706217708000622,
+    "fit_seconds": 0.7052066670003114,
+    "total_seconds": 11.411808415999985,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.82
+  },
+  {
+    "seed": 109,
+    "mode": "GA2",
+    "prepare_seconds": 10.266067874999862,
+    "fit_seconds": 0.569619750000129,
+    "total_seconds": 10.836032874998637,
+    "fitness_evaluations": 600,
+    "test_accuracy": 0.82
+  }
+]

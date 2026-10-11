@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+tools/
+releases/
+.DS_Store
+submission*/
+.local-publication/
+article-draft*
+build_article_docx.py
+figures/
+demo/
+*.docx
+*.pdf

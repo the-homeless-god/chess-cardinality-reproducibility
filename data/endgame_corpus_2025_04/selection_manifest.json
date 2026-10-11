@@ -1,0 +1,24 @@
+{
+  "protocol": "scenario-comparison-protocol-v1",
+  "source_url": "https://database.lichess.org/broadcast/lichess_db_broadcast_2025-04.pgn.zst",
+  "source_sha256": "6b6fd9e9e79a94e80d0f556fb323ad951922fdff1f42089fc18a348e65d79624",
+  "source_license": "CC BY-SA 4.0",
+  "seed": "20261004-april",
+  "selection": "first valid 3-7-piece position per game and stratum after ply 20; SHA-256 rank, 50 per stratum, at most one per game, excluding March FEN; no labels read",
+  "source_counts": {
+    "games": 26464,
+    "standard": 25673,
+    "with_candidate": 3521,
+    "invalid_pgn": 1
+  },
+  "candidate_counts": {
+    "3": 406,
+    "4": 879,
+    "5": 1626,
+    "6": 2573,
+    "7": 3513
+  },
+  "rows": 250,
+  "positions_sha256": "88767fd34d346713a95ccbcbde0bbfe7b98ee41ce6fb405b144ce8376ea874c1",
+  "script_sha256": "b581cfe143f3305f59d0942127ceb437079f468c6454eb67516f54390be74b11"
+}

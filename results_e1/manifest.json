@@ -1,0 +1,48 @@
+{
+  "protocol": "chess-cardinality-e1-v1",
+  "starting_fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+  "depths": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "modes": [
+    "raw",
+    "simple"
+  ],
+  "budget": "exhaustive at each depth",
+  "simple_mode": "derived from raw: with full canonical key, an irreversible move cannot restore the same board and a reversible move strictly increments halfmove clock",
+  "seed": 0,
+  "script_sha256": "2faf87f342f9624daacb86c392e0c5d723e8cc88523b503c65a37413266f5c54",
+  "chess_version": "1.11.2",
+  "python_version": "3.14.6",
+  "e0": {
+    "perft": {
+      "1": 20,
+      "2": 400,
+      "3": 8902,
+      "4": 197281
+    },
+    "extra_perft": {
+      "kiwipete": {
+        "1": 48,
+        "2": 2039,
+        "3": 97862
+      },
+      "position_3": {
+        "1": 14,
+        "2": 191,
+        "3": 2812
+      }
+    },
+    "canonical_rights": "passed",
+    "repetition": "passed",
+    "determinism": "passed",
+    "unique_bound": "passed",
+    "raw_simple": "passed"
+  },
+  "rows": 160,
+  "k_viable": "unavailable: no exact tablebase or preregistered approximation",
+  "canonical_key": "placement, turn, castling, legal en-passant, halfmove, repetition counts since last irreversible move"
+}

@@ -1,0 +1,32 @@
+{
+  "protocol": "chess-endgame-broadcast-selection-v1",
+  "source_url": "https://database.lichess.org/broadcast/lichess_db_broadcast_2025-03.pgn.zst",
+  "source_sha256": "840bdb7d640f82032f8373c86efcb69d0801c0d54cf3edf2152e4b8d25b8da87",
+  "source_license": "CC BY-SA 4.0",
+  "seed": "20261004",
+  "target_per_piece_count": 50,
+  "filters": "standard games, first reachable position per 3-7 piece count after ply 20, no castling, valid board, >=2 legal moves",
+  "selection": "SHA-256 rank within piece count; one position per game and FEN across final sample; no game result or tablebase data used",
+  "source_counts": {
+    "games": 16525,
+    "standard": 16523,
+    "invalid_pgn": 0,
+    "with_candidate": 2218
+  },
+  "candidate_counts": {
+    "3": 292,
+    "4": 561,
+    "5": 1046,
+    "6": 1612,
+    "7": 2213
+  },
+  "selected_counts": {
+    "3": 50,
+    "4": 50,
+    "5": 50,
+    "6": 50,
+    "7": 50
+  },
+  "rows": 250,
+  "script_sha256": "2029ae1a92a03dd6e3f070757d17b5a90cc5f364468a0858d70853cedf95b829"
+}

@@ -1,0 +1,43 @@
+module «Chess Cardinality»
+
+record «Power»
+  field «all»: number
+  field «unique»: number
+
+total function «Local power»
+  accepts moves: list string
+  returns number
+  ensures «power is nonnegative» result is at least 0
+  length moves
+
+total function «Same text»
+  accepts left: string, right: string
+  returns flag
+  left equals right
+
+total function «Contains text»
+  accepts items: list string, wanted: string
+  returns flag
+  any items where item → item equals wanted
+
+total function «Unique texts»
+  accepts items: list string
+  returns list string
+  match items
+    case empty
+      empty list
+    case head tail
+      let rest equal «Unique texts» from tail
+      if «Contains text» from rest and head
+        then rest
+        else add head to rest
+
+total function «Measure power»
+  accepts paths: list string, canonicalStates: list string
+  returns «Power»
+  ensures «unique power does not exceed total path count»
+    result.«unique» is at most result.«all»
+  let uniqueStates equal «Unique texts» from canonicalStates
+  record «Power»
+    with «all» equal length paths
+    and «unique» equal length uniqueStates

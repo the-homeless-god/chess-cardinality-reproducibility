@@ -1,0 +1,12 @@
+{
+  "protocol": "chess-cardinality-endgame-pilot-v1",
+  "endpoint": "https://tablebase.lichess.ovh/standard",
+  "input_sha256": "76dbf5a6f3124e46bf0626ec8758a3b36b8472ed7cbc970c8fc7bb3b458efa6d",
+  "script_sha256": "c924e4bbba839c53160b230afa398fbd8f66a6a0a758871820d7ab315a11db82",
+  "python_version": "3.14.6",
+  "chess_version": "1.11.2",
+  "positions": 5,
+  "move_rows": 59,
+  "selection": "fixed edge-case fixtures from lila-tablebase documentation/tests; no representativeness claim",
+  "api_category_view": "root category is for side to move; move categories are for opponent after the move"
+}

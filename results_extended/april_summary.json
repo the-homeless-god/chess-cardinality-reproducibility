@@ -1,0 +1,153 @@
+{
+  "roots": 250,
+  "informative": 126,
+  "modes": {
+    "observed": {
+      "accuracy": 0.796,
+      "informative_accuracy": 0.5952380952380952,
+      "regret": 0.22,
+      "accuracy_by_pieces": {
+        "3": 0.86,
+        "4": 0.86,
+        "5": 0.76,
+        "6": 0.82,
+        "7": 0.68
+      }
+    },
+    "inferred": {
+      "accuracy": 0.8,
+      "informative_accuracy": 0.6031746031746031,
+      "regret": 0.22,
+      "accuracy_by_pieces": {
+        "3": 0.86,
+        "4": 0.88,
+        "5": 0.76,
+        "6": 0.82,
+        "7": 0.68
+      }
+    },
+    "neutral": {
+      "accuracy": 0.8,
+      "informative_accuracy": 0.6031746031746031,
+      "regret": 0.224,
+      "accuracy_by_pieces": {
+        "3": 0.88,
+        "4": 0.88,
+        "5": 0.74,
+        "6": 0.8,
+        "7": 0.7
+      }
+    },
+    "min_kappa": {
+      "accuracy": 0.792,
+      "informative_accuracy": 0.5873015873015873,
+      "regret": 0.232,
+      "accuracy_by_pieces": {
+        "3": 0.86,
+        "4": 0.86,
+        "5": 0.74,
+        "6": 0.78,
+        "7": 0.72
+      }
+    },
+    "material": {
+      "accuracy": 0.804,
+      "informative_accuracy": 0.6111111111111112,
+      "regret": 0.208,
+      "accuracy_by_pieces": {
+        "3": 0.84,
+        "4": 0.88,
+        "5": 0.74,
+        "6": 0.84,
+        "7": 0.72
+      }
+    },
+    "cascade": {
+      "accuracy": 0.8,
+      "informative_accuracy": 0.6031746031746031,
+      "regret": 0.2076,
+      "accuracy_by_pieces": {
+        "3": 0.864,
+        "4": 0.868,
+        "5": 0.74,
+        "6": 0.806,
+        "7": 0.722
+      }
+    },
+    "Stockfish_1000": {
+      "accuracy": 0.988,
+      "informative_accuracy": 0.9761904761904762,
+      "regret": 0.012,
+      "accuracy_by_pieces": {
+        "3": 1,
+        "4": 1,
+        "5": 0.98,
+        "6": 0.98,
+        "7": 0.98
+      }
+    },
+    "Stockfish_10000": {
+      "accuracy": 0.996,
+      "informative_accuracy": 0.9920634920634921,
+      "regret": 0.004,
+      "accuracy_by_pieces": {
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 0.98,
+        "7": 1
+      }
+    }
+  },
+  "paired_cascade_minus": {
+    "material": {
+      "mean": -0.003999999999999999,
+      "ci95": [
+        -0.0444,
+        0.034800000000000005
+      ],
+      "roots": 250
+    },
+    "min_kappa": {
+      "mean": 0.008000000000000002,
+      "ci95": [
+        -0.0448,
+        0.0596
+      ],
+      "roots": 250
+    },
+    "Stockfish_1000": {
+      "mean": -0.188,
+      "ci95": [
+        -0.2344,
+        -0.144
+      ],
+      "roots": 250
+    },
+    "Stockfish_10000": {
+      "mean": -0.196,
+      "ci95": [
+        -0.244,
+        -0.1512
+      ],
+      "roots": 250
+    }
+  },
+  "move_categories": {
+    "win": 1050,
+    "loss": 594,
+    "draw": 1018
+  },
+  "root_dtz_available": 250,
+  "engine_latency": {
+    "Stockfish_1000": {
+      "median_seconds": 0.0014835420006420463,
+      "mean_seconds": 0.0015723614639864536
+    },
+    "Stockfish_10000": {
+      "median_seconds": 0.005303708501742221,
+      "mean_seconds": 0.0060271508522273505
+    }
+  },
+  "cascade_feature_median_seconds": 0.014589770999009488
+}

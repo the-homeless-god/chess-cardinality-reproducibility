@@ -1,0 +1,34 @@
+{
+  "min_kappa": {
+    "seconds_per_250_median": 0.0578103750012815,
+    "seconds_per_250_range": [
+      0.05654241600132082,
+      0.05980854100198485
+    ],
+    "repetitions": 5
+  },
+  "neutral": {
+    "seconds_per_250_median": 0.8020722500077682,
+    "seconds_per_250_range": [
+      0.7981449579965556,
+      0.8214922080078395
+    ],
+    "repetitions": 5
+  },
+  "observed": {
+    "seconds_per_250_median": 0.8037700830027461,
+    "seconds_per_250_range": [
+      0.7916054999950575,
+      0.8227601669932483
+    ],
+    "repetitions": 5
+  },
+  "inferred": {
+    "seconds_per_250_median": 0.9468048749986337,
+    "seconds_per_250_range": [
+      0.9346965840086341,
+      1.0012394590012264
+    ],
+    "repetitions": 5
+  }
+}

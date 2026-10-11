@@ -1,0 +1,24 @@
+{
+  "protocol": "full-game-and-runtime-protocol-v1",
+  "source_url": "https://database.lichess.org/broadcast/lichess_db_broadcast_2025-05.pgn.zst",
+  "source_sha256": "ed1b62de4c4f81e19d8e269a0ddbb4c5133361ff942439938f9d20f3d904795c",
+  "source_license": "CC BY-SA 4.0",
+  "seed": "20261004-may-full-games",
+  "selection": "first valid 3-7-piece position per game and stratum after ply 20; SHA-256 rank, 10 per stratum, at most one per game, excluding March and April FEN; no outcomes read",
+  "source_counts": {
+    "games": 23738,
+    "standard": 23568,
+    "with_candidate": 3250,
+    "invalid_pgn": 0
+  },
+  "candidate_counts": {
+    "3": 398,
+    "4": 829,
+    "5": 1493,
+    "6": 2329,
+    "7": 3244
+  },
+  "rows": 50,
+  "positions_sha256": "6360d6d132681f123b17ae5d6afda9e1981e86af0bd08fb7a5f906d8fb56e789",
+  "script_sha256": "e78d5930cd0aa2685273f0c1e89f61603287bd769c834de008900449853263a1"
+}

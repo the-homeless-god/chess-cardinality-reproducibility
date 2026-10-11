@@ -1,0 +1,8 @@
+{
+  "protocol": "scenario-comparison-protocol-v1",
+  "positions_sha256": "88767fd34d346713a95ccbcbde0bbfe7b98ee41ce6fb405b144ce8376ea874c1",
+  "predictions_sha256": "3560e0872df2fc2ba5b0089a25157413861617fd83976688b3f2833f2583c7d3",
+  "script_sha256": "00ac63ef2d01be2b1842aa95c484f6d9b958c4c78c6fb09e4ac419ec5825b04f",
+  "positions": 250,
+  "labels_used": false
+}

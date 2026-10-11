@@ -1,0 +1,22 @@
+{
+  "protocol": "chess-cardinality-openings-v1",
+  "source": "https://github.com/lichess-org/chess-openings",
+  "source_commit": "5a13018164f6bd88f48b3dc31a8e2a39f31a060a",
+  "source_sha256": {
+    "a.tsv": "98ec3e8532b746c2a47652f9313b49660f27d6e9ba27ceec8c4f1ed8de7d751d",
+    "b.tsv": "1d5ed134ebbd87915ead5683416e37583bb3e5ae3582b4d8cb5cb4aa7ef4f623",
+    "c.tsv": "45e843c7b7e79a0d04d5bda879c9bd23f5a10974488bd8615e4f4c5d0749986f",
+    "d.tsv": "1cf4057a8aece94f27bb3f278ad410ee2844831a642364eeceaafa091dbcceda",
+    "e.tsv": "48c6f6645b031a5937c8386839debab0e2e48837251687ba1afb6369677f8546"
+  },
+  "script_sha256": "a44b05b5e5f939822921f0def2e5d52feffcdc3be1f49dbc532600e6e81c28e7",
+  "run_e1_sha256": "2faf87f342f9624daacb86c392e0c5d723e8cc88523b503c65a37413266f5c54",
+  "python_version": "3.14.6",
+  "chess_version": "1.11.2",
+  "depth": 2,
+  "mode": "raw",
+  "complete_catalog": true,
+  "rows": 3864,
+  "unique_epd": 3864,
+  "notes": "All named catalog terminal positions; no opening WDL or engine score"
+}

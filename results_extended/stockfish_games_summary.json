@@ -1,0 +1,197 @@
+{
+  "roots": 45,
+  "excluded_terminal": [
+    "B202505-005",
+    "B202505-006",
+    "B202505-008",
+    "B202505-009",
+    "B202505-010"
+  ],
+  "modes": {
+    "observed": {
+      "games": 90,
+      "points": 31.5,
+      "wins": 1,
+      "draws": 61,
+      "losses": 28,
+      "root_score": {
+        "mean": 0.35,
+        "ci95": [
+          0.3,
+          0.39444444444444443
+        ],
+        "roots": 45
+      },
+      "termination": {
+        "THREEFOLD_REPETITION": 39,
+        "INSUFFICIENT_MATERIAL": 19,
+        "CHECKMATE": 29,
+        "STALEMATE": 3
+      },
+      "timeouts": 0,
+      "move_median_seconds": 0.0017648329994699452,
+      "move_total_seconds": 2.8721958239657397
+    },
+    "inferred": {
+      "games": 90,
+      "points": 29.5,
+      "wins": 1,
+      "draws": 57,
+      "losses": 32,
+      "root_score": {
+        "mean": 0.3277777777777778,
+        "ci95": [
+          0.2833333333333333,
+          0.37222222222222223
+        ],
+        "roots": 45
+      },
+      "termination": {
+        "THREEFOLD_REPETITION": 34,
+        "INSUFFICIENT_MATERIAL": 20,
+        "STALEMATE": 3,
+        "CHECKMATE": 33
+      },
+      "timeouts": 0,
+      "move_median_seconds": 0.0025523959993734024,
+      "move_total_seconds": 4.4139140530242
+    },
+    "neutral": {
+      "games": 90,
+      "points": 31.0,
+      "wins": 1,
+      "draws": 60,
+      "losses": 29,
+      "root_score": {
+        "mean": 0.34444444444444444,
+        "ci95": [
+          0.29444444444444445,
+          0.3888888888888889
+        ],
+        "roots": 45
+      },
+      "termination": {
+        "INSUFFICIENT_MATERIAL": 17,
+        "CHECKMATE": 30,
+        "THREEFOLD_REPETITION": 38,
+        "STALEMATE": 5
+      },
+      "timeouts": 0,
+      "move_median_seconds": 0.001769791500919382,
+      "move_total_seconds": 2.885401863943116
+    },
+    "GA0": {
+      "games": 90,
+      "points": 33.0,
+      "wins": 0,
+      "draws": 66,
+      "losses": 24,
+      "root_score": {
+        "mean": 0.36666666666666664,
+        "ci95": [
+          0.32222222222222224,
+          0.40555555555555556
+        ],
+        "roots": 45
+      },
+      "termination": {
+        "INSUFFICIENT_MATERIAL": 17,
+        "THREEFOLD_REPETITION": 46,
+        "CHECKMATE": 24,
+        "STALEMATE": 3
+      },
+      "timeouts": 2,
+      "move_median_seconds": 0.00786145799793303,
+      "move_total_seconds": 17.06826774089859
+    },
+    "min_kappa": {
+      "games": 90,
+      "points": 27.5,
+      "wins": 1,
+      "draws": 53,
+      "losses": 36,
+      "root_score": {
+        "mean": 0.3055555555555556,
+        "ci95": [
+          0.25,
+          0.3611111111111111
+        ],
+        "roots": 45
+      },
+      "termination": {
+        "INSUFFICIENT_MATERIAL": 16,
+        "THREEFOLD_REPETITION": 32,
+        "CHECKMATE": 37,
+        "STALEMATE": 5
+      },
+      "timeouts": 0,
+      "move_median_seconds": 0.0001282915018236963,
+      "move_total_seconds": 0.21143789904090227
+    },
+    "material": {
+      "games": 90,
+      "points": 30.0,
+      "wins": 0,
+      "draws": 60,
+      "losses": 30,
+      "root_score": {
+        "mean": 0.3333333333333333,
+        "ci95": [
+          0.28888888888888886,
+          0.37777777777777777
+        ],
+        "roots": 45
+      },
+      "termination": {
+        "INSUFFICIENT_MATERIAL": 12,
+        "THREEFOLD_REPETITION": 48,
+        "CHECKMATE": 30
+      },
+      "timeouts": 0,
+      "move_median_seconds": 9.212500299327075e-05,
+      "move_total_seconds": 0.1733353179988626
+    }
+  },
+  "paired_minus_min_kappa": {
+    "observed": {
+      "mean": 0.044444444444444446,
+      "ci95": [
+        0.0,
+        0.09444444444444444
+      ],
+      "roots": 45
+    },
+    "inferred": {
+      "mean": 0.022222222222222223,
+      "ci95": [
+        -0.027777777777777776,
+        0.07222222222222222
+      ],
+      "roots": 45
+    },
+    "neutral": {
+      "mean": 0.03888888888888889,
+      "ci95": [
+        -0.005555555555555556,
+        0.08888888888888889
+      ],
+      "roots": 45
+    },
+    "GA0": {
+      "mean": 0.06111111111111111,
+      "ci95": [
+        0.0,
+        0.12222222222222222
+      ],
+      "roots": 45
+    },
+    "material": {
+      "mean": 0.027777777777777776,
+      "ci95": [
+        -0.027777777777777776,
+        0.08333333333333333
+      ],
+      "roots": 45
+    }
+  }
+}

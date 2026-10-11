@@ -1,0 +1,26 @@
+{
+  "protocol": "ga-experiment-protocol-v1",
+  "position_sha256": "617a26b5b971816bad582491b4837be3c2dead60573351323bd99d16a63d7821",
+  "response_sha256": "46d272638dc38d4fe65ca04e5a164e302f7e3ab4eea5757920e26d1339e26974",
+  "script_sha256": "a6ca11d8265639a43fa27072db64cef9cced266d88eabd7e89e56d396077178c",
+  "seeds": [
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109
+  ],
+  "split": {
+    "train": 150,
+    "val": 50,
+    "test": 50
+  },
+  "feature_seconds": 7.097060291998787,
+  "total_seconds": 21.433737917002873,
+  "runs": 80
+}

@@ -1,0 +1,10 @@
+{
+  "protocol": "scenario-comparison-protocol-v1",
+  "endpoint": "https://tablebase.lichess.ovh/standard",
+  "positions_sha256": "88767fd34d346713a95ccbcbde0bbfe7b98ee41ce6fb405b144ce8376ea874c1",
+  "predictions_sha256_before_labels": "3560e0872df2fc2ba5b0089a25157413861617fd83976688b3f2833f2583c7d3",
+  "responses_sha256": "cf0de743ee3c1c84dfeac3444e8e66ab5cbfff4cb5bbdb09a4d691a4757cb925",
+  "script_sha256": "b49372c788cd1b511706e3b3bc416e3de0de1f6b27d7c9c6866c3b376cee8804",
+  "positions": 250,
+  "delay_seconds": 1.2
+}

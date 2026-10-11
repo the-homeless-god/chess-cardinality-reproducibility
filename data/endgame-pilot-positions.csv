@@ -1,0 +1,6 @@
+id,source,fen
+promotion_race,https://github.com/lichess-org/lila-tablebase/blob/main/README.md,4k3/6KP/8/8/8/8/7p/8 w - - 0 1
+six_piece_mate,https://github.com/lichess-org/lila-tablebase/blob/main/test.py,8/4K2k/5Q1P/6P1/8/8/q7/8 w - - 99 148
+fifty_move_boundary,https://github.com/lichess-org/lila-tablebase/blob/main/test.py,K7/2k5/3n4/8/2b5/8/8/8 w - - 97 128
+blessed_loss,https://github.com/lichess-org/lila-tablebase/blob/main/test.py,4K1k1/1N1P4/8/8/8/1q6/8/8 w - - 0 1
+bishop_knight_boundary,https://github.com/lichess-org/lila-tablebase/blob/main/test.py,8/6B1/6B1/8/2K5/3nk3/8/8 b - - 0 1

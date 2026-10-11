@@ -1,0 +1,101 @@
+{
+  "seeds": [
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109
+  ],
+  "modes": {
+    "GA2": {
+      "prepare_seconds": 8.913902970900017,
+      "fit_seconds": 0.6257427000000462,
+      "total_seconds": 9.5399897375999,
+      "fitness_evaluations": 600,
+      "test_accuracy": 0.804
+    },
+    "GA1+GA2": {
+      "prepare_seconds": 8.759750354000062,
+      "fit_seconds": 0.7200666793003621,
+      "total_seconds": 9.480206462500064,
+      "fitness_evaluations": 600,
+      "test_accuracy": 0.806
+    },
+    "GA0+GA1+GA2": {
+      "prepare_seconds": 8.554705016800654,
+      "fit_seconds": 0.461625808500321,
+      "total_seconds": 9.016671625200615,
+      "fitness_evaluations": 416.4,
+      "test_accuracy": 0.806
+    },
+    "GA2_early_stop": {
+      "prepare_seconds": 9.142020400000183,
+      "fit_seconds": 0.4453266834992974,
+      "total_seconds": 9.587788875099069,
+      "fitness_evaluations": 286.8,
+      "test_accuracy": 0.792
+    }
+  },
+  "paired_saving_cascade": {
+    "GA2": {
+      "total_seconds": {
+        "mean": 0.5233181123992836,
+        "ci95": [
+          -0.2505113499006256,
+          1.2031071123001311
+        ],
+        "roots": 10
+      },
+      "fit_seconds": {
+        "mean": 0.16411689149972516,
+        "ci95": [
+          0.089167787300903,
+          0.23649296260009578
+        ],
+        "roots": 10
+      }
+    },
+    "GA1+GA2": {
+      "total_seconds": {
+        "mean": 0.46353483729944855,
+        "ci95": [
+          -0.39082825039986346,
+          1.597053599798528
+        ],
+        "roots": 10
+      },
+      "fit_seconds": {
+        "mean": 0.258440870800041,
+        "ci95": [
+          0.16314802920060173,
+          0.36215854580041196
+        ],
+        "roots": 10
+      }
+    },
+    "GA2_early_stop": {
+      "total_seconds": {
+        "mean": 0.5711172498984525,
+        "ci95": [
+          -0.7006259083031182,
+          1.8901371036987258
+        ],
+        "roots": 10
+      },
+      "fit_seconds": {
+        "mean": -0.01629912500102364,
+        "ci95": [
+          -0.2829571042006137,
+          0.3196917914978258
+        ],
+        "roots": 10
+      }
+    }
+  },
+  "scope": "Read saved March roots and exact labels, construct all features, fit, choose 50 held-out moves; no network or engine. Mode order rotates."
+}

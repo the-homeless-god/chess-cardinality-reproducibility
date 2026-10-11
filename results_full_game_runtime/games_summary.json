@@ -1,0 +1,114 @@
+{
+  "protocol": "full-game-and-runtime-protocol-v1",
+  "positions_sha256": "6360d6d132681f123b17ae5d6afda9e1981e86af0bd08fb7a5f906d8fb56e789",
+  "ga_runs_sha256": "3435a32adf9b674e95be800f2547a33dfa3360ec95a0362e0ea31206450b2042",
+  "script_sha256": "baf0ef3bae6c955dafd52ffe2c9db5b0c8d35f83f55c2ab2bcaeeb4b5266c7b2",
+  "games_total": 400,
+  "max_plies": 200,
+  "move_limit_seconds": 0.25,
+  "policies": {
+    "observed": {
+      "games": 100,
+      "wins": 5,
+      "draws": 93,
+      "losses": 2,
+      "score_per_100_games": 51.5,
+      "mean_pair_score_per_root": 1.03,
+      "paired_advantage_over_identity": [
+        0.0,
+        0.07
+      ],
+      "technical_draws": 0,
+      "candidate_moves": 846,
+      "move_seconds_median": 0.0011432084938860498,
+      "move_seconds_p95": 0.004400291752972407,
+      "timeouts": 0,
+      "mean_plies": 16.9
+    },
+    "inferred": {
+      "games": 100,
+      "wins": 6,
+      "draws": 92,
+      "losses": 2,
+      "score_per_100_games": 52.0,
+      "mean_pair_score_per_root": 1.04,
+      "paired_advantage_over_identity": [
+        0.01,
+        0.08
+      ],
+      "technical_draws": 0,
+      "candidate_moves": 882,
+      "move_seconds_median": 0.001772583505953662,
+      "move_seconds_p95": 0.005009867301851045,
+      "timeouts": 0,
+      "mean_plies": 17.66
+    },
+    "neutral": {
+      "games": 100,
+      "wins": 6,
+      "draws": 92,
+      "losses": 2,
+      "score_per_100_games": 52.0,
+      "mean_pair_score_per_root": 1.04,
+      "paired_advantage_over_identity": [
+        0.01,
+        0.08
+      ],
+      "technical_draws": 0,
+      "candidate_moves": 794,
+      "move_seconds_median": 0.0010187294974457473,
+      "move_seconds_p95": 0.004422956700000209,
+      "timeouts": 0,
+      "mean_plies": 15.87
+    },
+    "GA0": {
+      "games": 100,
+      "wins": 0,
+      "draws": 96,
+      "losses": 4,
+      "score_per_100_games": 48.0,
+      "mean_pair_score_per_root": 0.96,
+      "paired_advantage_over_identity": [
+        -0.09,
+        0.0
+      ],
+      "technical_draws": 0,
+      "candidate_moves": 766,
+      "move_seconds_median": 0.005404916497354861,
+      "move_seconds_p95": 0.04365710400452372,
+      "timeouts": 0,
+      "mean_plies": 15.34
+    }
+  },
+  "comparisons": {
+    "observed-inferred": {
+      "mean_pair_difference": -0.01,
+      "ci95": [
+        -0.04,
+        0.02
+      ]
+    },
+    "observed-neutral": {
+      "mean_pair_difference": -0.01,
+      "ci95": [
+        -0.05,
+        0.02
+      ]
+    },
+    "inferred-neutral": {
+      "mean_pair_difference": 0.0,
+      "ci95": [
+        -0.04,
+        0.04
+      ]
+    },
+    "GA0-neutral": {
+      "mean_pair_difference": -0.08,
+      "ci95": [
+        -0.14,
+        -0.03
+      ]
+    }
+  },
+  "games_sha256": "c48dce44bbd2cafeca2763f6fba64cdee0f1b2616410e7e9ce51369620952b66"
+}
